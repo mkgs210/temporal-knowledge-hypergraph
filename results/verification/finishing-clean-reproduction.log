@@ -1,0 +1,77 @@
+PYTHONPATH=src /home/mkgs/phd_intern_test/.venv-cpu/bin/python -m tkh.cpu_annotations --run out/reproduction --preflight
+OPENBLAS_NUM_THREADS=4 PYTHONPATH=src /home/mkgs/phd_intern_test/.venv-cpu/bin/python -m tkh.cpu_pipeline --out out/reproduction --build-only
+CPU embeddings:   0%|          | 0/5555 [00:00<?, ?text/s]CPU embeddings:   1%|          | 32/5555 [00:00<00:48, 113.41text/s]CPU embeddings:   2%|▏         | 96/5555 [00:00<00:24, 226.89text/s]CPU embeddings:   3%|▎         | 192/5555 [00:00<00:15, 343.85text/s]CPU embeddings:   5%|▌         | 288/5555 [00:00<00:12, 415.58text/s]CPU embeddings:   7%|▋         | 384/5555 [00:00<00:10, 471.90text/s]CPU embeddings:   9%|▊         | 480/5555 [00:00<00:10, 496.39text/s]CPU embeddings:  10%|█         | 576/5555 [00:01<00:10, 487.17text/s]CPU embeddings:  12%|█▏        | 672/5555 [00:01<00:09, 493.53text/s]CPU embeddings:  14%|█▍        | 768/5555 [00:01<00:09, 493.82text/s]CPU embeddings:  16%|█▌        | 864/5555 [00:01<00:09, 504.66text/s]CPU embeddings:  17%|█▋        | 960/5555 [00:01<00:09, 510.20text/s]CPU embeddings:  19%|█▉        | 1056/5555 [00:02<00:08, 518.17text/s]CPU embeddings:  21%|██        | 1152/5555 [00:02<00:08, 523.15text/s]CPU embeddings:  22%|██▏       | 1248/5555 [00:02<00:08, 527.00text/s]CPU embeddings:  24%|██▍       | 1344/5555 [00:02<00:07, 533.22text/s]CPU embeddings:  26%|██▌       | 1440/5555 [00:02<00:07, 532.18text/s]CPU embeddings:  28%|██▊       | 1536/5555 [00:02<00:07, 534.56text/s]CPU embeddings:  29%|██▉       | 1632/5555 [00:03<00:07, 540.18text/s]CPU embeddings:  31%|███       | 1728/5555 [00:03<00:07, 537.82text/s]CPU embeddings:  33%|███▎      | 1824/5555 [00:03<00:06, 533.88text/s]CPU embeddings:  35%|███▍      | 1920/5555 [00:03<00:06, 538.72text/s]CPU embeddings:  36%|███▋      | 2016/5555 [00:03<00:06, 544.03text/s]CPU embeddings:  38%|███▊      | 2112/5555 [00:03<00:06, 549.06text/s]CPU embeddings:  40%|███▉      | 2208/5555 [00:03<00:06, 555.78text/s]CPU embeddings:  41%|████▏     | 2304/5555 [00:04<00:05, 561.22text/s]CPU embeddings:  43%|████▎     | 2400/5555 [00:04<00:05, 565.00text/s]CPU embeddings:  45%|████▍     | 2496/5555 [00:04<00:05, 569.79text/s]CPU embeddings:  47%|████▋     | 2592/5555 [00:04<00:05, 571.69text/s]CPU embeddings:  48%|████▊     | 2688/5555 [00:04<00:04, 575.79text/s]CPU embeddings:  50%|█████     | 2784/5555 [00:04<00:04, 579.89text/s]CPU embeddings:  52%|█████▏    | 2880/5555 [00:04<00:04, 585.44text/s]CPU embeddings:  54%|█████▎    | 2976/5555 [00:05<00:04, 587.51text/s]CPU embeddings:  55%|█████▌    | 3072/5555 [00:05<00:04, 590.01text/s]CPU embeddings:  57%|█████▋    | 3168/5555 [00:05<00:04, 593.31text/s]CPU embeddings:  59%|█████▉    | 3264/5555 [00:05<00:03, 593.56text/s]CPU embeddings:  60%|██████    | 3360/5555 [00:05<00:03, 596.68text/s]CPU embeddings:  62%|██████▏   | 3456/5555 [00:05<00:03, 597.64text/s]CPU embeddings:  64%|██████▍   | 3552/5555 [00:05<00:03, 596.51text/s]CPU embeddings:  66%|██████▌   | 3648/5555 [00:06<00:03, 598.05text/s]CPU embeddings:  67%|██████▋   | 3744/5555 [00:06<00:03, 598.86text/s]CPU embeddings:  69%|██████▉   | 3840/5555 [00:06<00:02, 602.19text/s]CPU embeddings:  71%|███████   | 3936/5555 [00:06<00:02, 602.62text/s]CPU embeddings:  73%|███████▎  | 4032/5555 [00:06<00:02, 603.49text/s]CPU embeddings:  74%|███████▍  | 4128/5555 [00:06<00:02, 605.20text/s]CPU embeddings:  76%|███████▌  | 4224/5555 [00:06<00:02, 606.05text/s]CPU embeddings:  78%|███████▊  | 4320/5555 [00:07<00:02, 571.90text/s]CPU embeddings:  79%|███████▉  | 4416/5555 [00:08<00:02, 518.54text/s]CPU embeddings:  81%|████████  | 4512/5555 [00:09<00:02, 496.96text/s]CPU embeddings:  83%|████████▎ | 4608/5555 [00:09<00:01, 481.51text/s]CPU embeddings:  85%|████████▍ | 4704/5555 [00:10<00:01, 456.78text/s]CPU embeddings:  86%|████████▋ | 4800/5555 [00:11<00:01, 433.94text/s]CPU embeddings:  88%|████████▊ | 4896/5555 [00:11<00:01, 418.77text/s]CPU embeddings:  90%|████████▉ | 4992/5555 [00:12<00:01, 407.49text/s]CPU embeddings:  92%|█████████▏| 5088/5555 [00:12<00:01, 410.72text/s]CPU embeddings:  93%|█████████▎| 5184/5555 [00:12<00:00, 413.46text/s]CPU embeddings:  95%|█████████▌| 5280/5555 [00:12<00:00, 417.26text/s]CPU embeddings:  97%|█████████▋| 5376/5555 [00:12<00:00, 420.61text/s]CPU embeddings:  99%|█████████▊| 5472/5555 [00:13<00:00, 420.36text/s]CPU embeddings: 100%|██████████| 5555/5555 [00:13<00:00, 419.54text/s]
+Constructed and validated 2022: 2137 nodes
+Constructed and validated 2023: 3376 nodes
+Constructed and validated 2024: 4094 nodes
+Constructed and validated 2025: 4987 nodes
+Constructed and validated 2026: 5798 nodes
+PYTHONPATH=src /home/mkgs/phd_intern_test/.venv-cpu/bin/python validate.py out/reproduction/hierarchy
+PASS: all protocol snapshots satisfy schema, partitions, budgets, evidence and event references
+OPENBLAS_NUM_THREADS=4 PYTHONPATH=src /home/mkgs/phd_intern_test/.venv-cpu/bin/python -m tkh.cpu_pipeline --out out/reproduction --assess-only
+CPU embeddings:   0%|          | 0/18 [00:00<?, ?text/s]CPU embeddings: 100%|██████████| 18/18 [00:00<00:00, 147.16text/s]CPU embeddings: 100%|██████████| 18/18 [00:00<00:00, 146.96text/s]
+CPU retrieval: Q1
+CPU retrieval: Q2
+CPU retrieval: Q3
+CPU retrieval: Q4
+CPU retrieval: Q5
+CPU retrieval: Q6
+CPU retrieval: Q7
+CPU retrieval: Q8
+CPU retrieval: Q9
+CPU retrieval: Q10
+CPU retrieval: Q11
+CPU retrieval: Q12
+CPU retrieval: Q13
+CPU retrieval: Q14
+CPU retrieval: Q15
+CPU retrieval: Q16
+CPU retrieval: Q17
+CPU retrieval: Q18
+OPENBLAS_NUM_THREADS=4 PYTHONPATH=src /home/mkgs/phd_intern_test/.venv-cpu/bin/python -m tkh.cpu_science out/reproduction
+Fresh initial edge-deletion rebuild 0
+Fresh initial edge-deletion rebuild 1
+Fresh initial edge-deletion rebuild 2
+Fresh initial edge-deletion rebuild 3
+Fresh initial edge-deletion rebuild 4
+OPENBLAS_NUM_THREADS=4 PYTHONPATH=src /home/mkgs/phd_intern_test/.venv-cpu/bin/python -m tkh.cpu_components out/reproduction
+Constructed and validated 2022: 2137 nodes
+Constructed and validated 2023: 3376 nodes
+Constructed and validated 2024: 4094 nodes
+Constructed and validated 2025: 4987 nodes
+Constructed and validated 2026: 5798 nodes
+Fresh initial edge-deletion rebuild 0
+Fresh initial edge-deletion rebuild 1
+Fresh initial edge-deletion rebuild 2
+Fresh initial edge-deletion rebuild 3
+Fresh initial edge-deletion rebuild 4
+Component control measured: no_native_cost
+Constructed and validated 2022: 2137 nodes
+Constructed and validated 2023: 3376 nodes
+Constructed and validated 2024: 4094 nodes
+Constructed and validated 2025: 4987 nodes
+Constructed and validated 2026: 5798 nodes
+Fresh initial edge-deletion rebuild 0
+Fresh initial edge-deletion rebuild 1
+Fresh initial edge-deletion rebuild 2
+Fresh initial edge-deletion rebuild 3
+Fresh initial edge-deletion rebuild 4
+Component control measured: unbounded_edits
+PYTHONPATH=src /home/mkgs/phd_intern_test/.venv-cpu/bin/python -m tkh.cpu_annotations --run out/reproduction
+310 groups; 0 cached; 310 remaining
+128 requests planned for this invocation (up to 3 groups each)
+310 groups; 310 cached; 0 remaining
+0 requests planned for this invocation (up to 3 groups each)
+PYTHONPATH=src /home/mkgs/phd_intern_test/.venv-cpu/bin/python -m tkh.cpu_label_audit --run out/reproduction --check
+310 authenticated labels; 20 blind sample groups; 19 have withheld claim evidence.
+20 sample labels + 7 controls = 27 requests; 27 cached
+Judge sensitivity controls passed: True
+20 sample labels + 7 controls = 27 requests; 27 cached
+PYTHONPATH=src /home/mkgs/phd_intern_test/.venv-cpu/bin/python validate.py out/reproduction/labelled_hierarchy
+PASS: all protocol snapshots satisfy schema, partitions, budgets, evidence and event references
+PYTHONPATH=src /home/mkgs/phd_intern_test/.venv-cpu/bin/python -m tkh.cpu_figures out/reproduction
+PYTHONPATH=src /home/mkgs/phd_intern_test/.venv-cpu/bin/python make_tables.py out/reproduction --report report.md --pdf report.pdf
+Generated CPU measurements report.md report.pdf
+PYTHONPATH=src /home/mkgs/phd_intern_test/.venv-cpu/bin/python -m tkh.cpu_package --run out/reproduction
+20 sample labels + 7 controls = 27 requests; 27 cached
+/home/mkgs/phd_intern_test/out/final-submission-review-20261022/out/reproduction-submission.zip

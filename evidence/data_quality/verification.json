@@ -1,0 +1,16 @@
+{
+  "project_tests_passed": 37,
+  "checker_tests_passed": 13,
+  "raw_export_status": "inconsistent",
+  "raw_export_exit_code": 1,
+  "errors": 283,
+  "warnings": 327,
+  "review": "two false acceptances reproduced then fixed; independent re-review passed",
+  "inputs_unchanged": true,
+  "prior_audit_artifacts_unchanged": true,
+  "report_hashes": {
+    "issues.csv": "394a0c1959b44504f8223654d4d551c3ae796b2f5ae9082536478a5e2d7ee3a9",
+    "issues.json": "98e9743cd12ff82290152abb1ea2be0efdcf53582dafa19316606d35afa78656",
+    "manifest.json": "d360237b7545c690cbafcdd9cccc832beeaba2a0bc19f61337cb8661813b907e"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "main_retrieval": true,
+  "paired_retrieval": true,
+  "citation_and_quotient": true,
+  "deletion_robustness": true,
+  "all_component_variants": true,
+  "illustration": true,
+  "model": true,
+  "current_source_modules": true,
+  "new_annotation_calls_zero": true
+}

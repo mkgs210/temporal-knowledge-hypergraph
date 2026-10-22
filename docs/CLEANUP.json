@@ -1,0 +1,356 @@
+{
+  "date_utc": "2026-10-22T14:53:23.446806+00:00",
+  "removed": [
+    {
+      "path": "assets",
+      "bytes": 115582342
+    },
+    {
+      "path": "evidence/blind",
+      "bytes": 31421
+    },
+    {
+      "path": "evidence/retrieval_verification.json",
+      "bytes": 1308
+    },
+    {
+      "path": "evidence/retrieval_protocol.json",
+      "bytes": 12417
+    },
+    {
+      "path": "evidence/expected_partitions.json",
+      "bytes": 393
+    },
+    {
+      "path": "evidence/historical_science.json",
+      "bytes": 6305181
+    },
+    {
+      "path": "evidence/calibration.json",
+      "bytes": 13685
+    },
+    {
+      "path": "evidence/retrieval_predictions.json",
+      "bytes": 8553721
+    },
+    {
+      "path": "evidence/manifest.json",
+      "bytes": 2307
+    },
+    {
+      "path": "evidence/retrieval_pre_evaluation_manifest.json",
+      "bytes": 11593
+    },
+    {
+      "path": "evidence/retrieval_rescued_lost_with_ids.csv",
+      "bytes": 40127
+    },
+    {
+      "path": "evidence/retrieval_metrics.json",
+      "bytes": 11270385
+    },
+    {
+      "path": "evidence/retrieval_replay.json",
+      "bytes": 3715
+    },
+    {
+      "path": "results/science",
+      "bytes": 10706085
+    },
+    {
+      "path": "results/report.md",
+      "bytes": 22771
+    },
+    {
+      "path": "results/report_artifacts.json",
+      "bytes": 1216
+    },
+    {
+      "path": "results/hierarchy",
+      "bytes": 160445710
+    },
+    {
+      "path": "results/assets",
+      "bytes": 17539528
+    },
+    {
+      "path": "results/components",
+      "bytes": 353752539
+    },
+    {
+      "path": "results/prediction_lock.json",
+      "bytes": 8374
+    },
+    {
+      "path": "results/predictions.json",
+      "bytes": 351485
+    },
+    {
+      "path": "results/labels",
+      "bytes": 71806204
+    },
+    {
+      "path": "results/routing.json",
+      "bytes": 4393696
+    },
+    {
+      "path": "out/repair-study-v1",
+      "bytes": 123560304
+    },
+    {
+      "path": "out/submission-rebuild-v1",
+      "bytes": 286406500
+    },
+    {
+      "path": "out/nvidia_lightning_labels_schema",
+      "bytes": 37485116
+    },
+    {
+      "path": "out/report-finishing-final-4.png",
+      "bytes": 179919
+    },
+    {
+      "path": "out/final-workflow-verification",
+      "bytes": 65005
+    },
+    {
+      "path": "out/report-finishing-page-3.png",
+      "bytes": 180050
+    },
+    {
+      "path": "out/nvidia_guided_check",
+      "bytes": 2277
+    },
+    {
+      "path": "out/repair-unbounded-v1",
+      "bytes": 255329755
+    },
+    {
+      "path": "out/submission-before-finishing-20261022",
+      "bytes": 477554102
+    },
+    {
+      "path": "out/repair-study-v3",
+      "bytes": 49390416
+    },
+    {
+      "path": "out/repair-balanced-screen",
+      "bytes": 11022424
+    },
+    {
+      "path": "out/finishing-clean-reproduction.log",
+      "bytes": 8984
+    },
+    {
+      "path": "out/finishing-integration-failure.log",
+      "bytes": 17153
+    },
+    {
+      "path": "out/report-finishing-page-5.png",
+      "bytes": 27056
+    },
+    {
+      "path": "out/nvidia_topic_labels_pilot_v4",
+      "bytes": 475406
+    },
+    {
+      "path": "out/report-finishing-page-2.png",
+      "bytes": 180333
+    },
+    {
+      "path": "out/repair-bounded-novel-v1",
+      "bytes": 260146725
+    },
+    {
+      "path": "out/gemini_preview",
+      "bytes": 7349032
+    },
+    {
+      "path": "out/nvidia_scope_labels_pilot_v3",
+      "bytes": 15733364
+    },
+    {
+      "path": "out/repair-labels",
+      "bytes": 18400266
+    },
+    {
+      "path": "out/finishing-integrity-targeted-tests.log",
+      "bytes": 100
+    },
+    {
+      "path": "out/gemini_labels",
+      "bytes": 25956367
+    },
+    {
+      "path": "out/repair-balanced-novel-v2",
+      "bytes": 261366535
+    },
+    {
+      "path": "out/report-finishing-final-2.png",
+      "bytes": 180333
+    },
+    {
+      "path": "out/repair-temporal",
+      "bytes": 1021460
+    },
+    {
+      "path": "out/finishing-full-tests.log",
+      "bytes": 581
+    },
+    {
+      "path": "out/nvidia_guided_labels",
+      "bytes": 44646220
+    },
+    {
+      "path": "out/report-finishing-final-1.png",
+      "bytes": 186388
+    },
+    {
+      "path": "out/repair-balanced-append-v2",
+      "bytes": 256390576
+    },
+    {
+      "path": "out/repair-append-v1",
+      "bytes": 254726667
+    },
+    {
+      "path": "out/repair-balanced-split-v3",
+      "bytes": 261500096
+    },
+    {
+      "path": "out/component-controls-20261022.log",
+      "bytes": 897
+    },
+    {
+      "path": "out/previous-e5-results-20261021",
+      "bytes": 80381543
+    },
+    {
+      "path": "out/final-run-logs",
+      "bytes": 1235590
+    },
+    {
+      "path": "out/label_judge_v2_verification",
+      "bytes": 60185
+    },
+    {
+      "path": "out/nvidia_guided_labels_v2",
+      "bytes": 50769901
+    },
+    {
+      "path": "out/repair-tree",
+      "bytes": 80926071
+    },
+    {
+      "path": "out/final-submission-review-20261022",
+      "bytes": 1637930159
+    },
+    {
+      "path": "out/report-finishing-page-1.png",
+      "bytes": 186388
+    },
+    {
+      "path": "out/repair-study-v2",
+      "bytes": 100176681
+    },
+    {
+      "path": "out/finishing-clean-comparison.json",
+      "bytes": 267
+    },
+    {
+      "path": "out/report-finishing-page-4.png",
+      "bytes": 188127
+    },
+    {
+      "path": "out/nvidia_lightning_labels_warn",
+      "bytes": 32626235
+    },
+    {
+      "path": "out/retrieval-diagnosis-v1",
+      "bytes": 558394
+    },
+    {
+      "path": "out/finishing-metric-bytes-red.log",
+      "bytes": 12111
+    },
+    {
+      "path": "out/repair-bounded-v1",
+      "bytes": 254810562
+    },
+    {
+      "path": "out/report-finishing-final-5.png",
+      "bytes": 42851
+    },
+    {
+      "path": "out/final-cpu-submission.zip",
+      "bytes": 114340905
+    },
+    {
+      "path": "out/final-clean-cpu-review",
+      "bytes": 765096059
+    },
+    {
+      "path": "out/label_repair_verification",
+      "bytes": 59915
+    },
+    {
+      "path": "out/nvidia_label_comparison_v2",
+      "bytes": 895152
+    },
+    {
+      "path": "out/final-cpu",
+      "bytes": 317221324
+    },
+    {
+      "path": "out/component-controls-final-20261022.log",
+      "bytes": 897
+    },
+    {
+      "path": "out/repair-balanced-bounded-v2",
+      "bytes": 256479049
+    },
+    {
+      "path": "out/gemini_labels_batched",
+      "bytes": 32098376
+    },
+    {
+      "path": "out/nvidia_label_comparison",
+      "bytes": 767256
+    },
+    {
+      "path": "out/finishing-component-integrity-red.log",
+      "bytes": 2722
+    },
+    {
+      "path": "out/finishing-targeted-tests.log",
+      "bytes": 100
+    },
+    {
+      "path": "out/cpu-code-verification",
+      "bytes": 63422
+    },
+    {
+      "path": "submission.zip",
+      "bytes": 275985345
+    },
+    {
+      "path": "submission.zip.sha256",
+      "bytes": 81
+    },
+    {
+      "path": "submission_manifest.json",
+      "bytes": 211255
+    },
+    {
+      "path": "scripts/package_submission.py",
+      "bytes": 2693
+    }
+  ],
+  "bytes_removed": 7413476226,
+  "retained": "Raw supplied data, exact compressed API evidence, public per-year hierarchies, metrics, report, source and tests. Local Python environments, model cache and the user notebook under ignored temp/ were retained.",
+  "rebuilt_by": "make all",
+  "git_visible_bytes_after": 68277470,
+  "largest_git_visible_file_after": "annotations/nvidia_labels.tar.gz",
+  "largest_git_visible_bytes_after": 9793993,
+  "historical_blob_limit_check": "No Git-history blob exceeds 100 MiB; history was not rewritten."
+}

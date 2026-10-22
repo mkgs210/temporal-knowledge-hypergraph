@@ -1,0 +1,121 @@
+{
+  "cutoff": 2022,
+  "budgets": [
+    1,
+    2,
+    3
+  ],
+  "levels": [
+    {
+      "index": 0,
+      "groups": [
+        {
+          "id": "top",
+          "parent_id": null,
+          "members": [
+            "a",
+            "b",
+            "c"
+          ],
+          "label": "Three subjects",
+          "gloss": "This group contains the three subjects.",
+          "evidence": [
+            "a"
+          ],
+          "label_input_hash": "2cf1156d84c56ba6dc238270a34e1f432c80ca4bb0bfc70e090cb50ee16c013b"
+        },
+        {
+          "id": "overflow",
+          "parent_id": null,
+          "members": [
+            "a",
+            "b",
+            "c"
+          ],
+          "label": "Three subjects",
+          "gloss": "This group contains the three subjects.",
+          "evidence": [
+            "a"
+          ],
+          "label_input_hash": "2cf1156d84c56ba6dc238270a34e1f432c80ca4bb0bfc70e090cb50ee16c013b"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "groups": [
+        {
+          "id": "mid1",
+          "parent_id": "top",
+          "members": [
+            "a"
+          ],
+          "label": "Subject a",
+          "gloss": "This group concerns a.",
+          "evidence": [
+            "a"
+          ],
+          "label_input_hash": "f72abdf2f1d8d33334c335f81d1404c357da01ba75ce1e042ad11b959616c8b5"
+        },
+        {
+          "id": "mid2",
+          "parent_id": "top",
+          "members": [
+            "b",
+            "c"
+          ],
+          "label": "Subjects b and c",
+          "gloss": "This group concerns b and c.",
+          "evidence": [
+            "b"
+          ],
+          "label_input_hash": "9cf14a3ebf3542cdab370246b2ff2f9ef04e5df90a0fb2d3b2e179b5b0f87daf"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "groups": [
+        {
+          "id": "leaf-a",
+          "parent_id": "mid1",
+          "members": [
+            "a"
+          ],
+          "label": "a",
+          "gloss": "Subject a.",
+          "evidence": [
+            "a"
+          ],
+          "label_input_hash": "f72abdf2f1d8d33334c335f81d1404c357da01ba75ce1e042ad11b959616c8b5"
+        },
+        {
+          "id": "leaf-b",
+          "parent_id": "mid2",
+          "members": [
+            "b"
+          ],
+          "label": "b",
+          "gloss": "Subject b.",
+          "evidence": [
+            "b"
+          ],
+          "label_input_hash": "4aa46d2643eab77df291e2856761454947be2df473262af48bb7ad8b4f811ae1"
+        },
+        {
+          "id": "leaf-c",
+          "parent_id": "mid2",
+          "members": [
+            "c"
+          ],
+          "label": "c",
+          "gloss": "Subject c.",
+          "evidence": [
+            "c"
+          ],
+          "label_input_hash": "6b760dbf1bddef47430d21ac0de3c2f72f5558df58b8c2c7bf6d582291331859"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# Preserve the exact bytes authenticated by the data and annotation manifests.
+*.csv -text whitespace=cr-at-eol
+*.json -text
+
+# ReportLab PDFs may contain mostly ASCII; they still need binary Git handling.
+*.pdf binary
+*.png binary
+*.gz binary
+*.npz binary
+*.npy binary

@@ -1,0 +1,46 @@
+{
+  "clean_make_all_exit_code": 0,
+  "clean_checkout": "Extracted updated submission ZIP at out/final-submission-review-20261022; no .env or API keys",
+  "command": "env -u NVIDIA_API_KEY -u GEMINI_API_KEY HF_HOME=/tmp/tkh-fresh-model-cache HF_HUB_OFFLINE=1 make all PYTHON=/home/mkgs/phd_intern_test/.venv-cpu/bin/python OUT=out/reproduction",
+  "neural_boundary": "Real pinned MiniLM CPU inference from raw data; fresh text/vector cache, already downloaded model files; no model stub",
+  "comparison": {
+    "main_retrieval": true,
+    "paired_retrieval": true,
+    "citation_and_quotient": true,
+    "deletion_robustness": true,
+    "all_component_variants": true,
+    "illustration": true,
+    "model": true,
+    "current_source_modules": true,
+    "new_annotation_calls_zero": true
+  },
+  "new_label_api_calls": 0,
+  "new_judge_api_calls": 0,
+  "component_controls": [
+    "zero native scientific cut cost",
+    "unbounded old-scientific edits without movement penalty"
+  ],
+  "component_artifact_verifier": "Main scientific baseline, reference answers, source dependencies, vectors and generated control evidence authenticated; packaging rejects changes",
+  "labels": {
+    "generated": 310,
+    "sample": 20,
+    "ratings": {
+      "accurate": 16,
+      "vague": 4
+    },
+    "judge": "nvidia/nemotron-3-ultra-550b-a55b",
+    "controls_passed": true
+  },
+  "pdf_pages": 5,
+  "tests": "468 passed in 40.65s",
+  "dependencies": "pip check passed",
+  "logs": [
+    "verification/final-tests.log",
+    "verification/finishing-clean-reproduction.log",
+    "verification/finishing-clean-comparison.json",
+    "verification/component-controls.log"
+  ],
+  "baseline_clean_run_record": "verification/initial-cpu-clean-run.json",
+  "scientific_status": "Negative hierarchy retrieval result retained; component comparisons are exploratory. Adaptive topic discovery and population label accuracy are not established.",
+  "release_note": "Final packaging adds these verification records after the successful extracted-copy execution; tested runtime sources and measured report are unchanged."
+}

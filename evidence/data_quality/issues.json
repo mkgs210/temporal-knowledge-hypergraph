@@ -1,0 +1,7137 @@
+{
+  "status": "inconsistent",
+  "errors": 283,
+  "warnings": 327,
+  "counts": {
+    "edge_before_member_observation": 170,
+    "fact_year_vs_source": 154,
+    "first_seen_vs_sources": 127,
+    "last_seen_vs_sources": 120,
+    "missing_member_source": 36,
+    "origin_after_observation": 3
+  },
+  "distinct_error_nodes": 134,
+  "distinct_error_edges": 36,
+  "scope": "record date/source consistency, no scientific truth validation or repairs",
+  "issues": [
+    {
+      "code": "origin_after_observation",
+      "severity": "warning",
+      "node_id": "meth_00175",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2022,
+      "expected": {
+        "not_later_than": 2021
+      }
+    },
+    {
+      "code": "origin_after_observation",
+      "severity": "warning",
+      "node_id": "meth_00209",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2018,
+      "expected": {
+        "not_later_than": 2017
+      }
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00002",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2017,
+      "expected": 2018
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00004",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00005",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 1997,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00006",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2022,
+      "expected": 2026
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00006",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2022,
+      "expected": 2026
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00009",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2026
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00009",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2026
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00015",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2018,
+      "expected": 2023
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00221",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00221",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00017",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00222",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00222",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00223",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00223",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00224",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00224",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00225",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00225",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00226",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00226",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00227",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00227",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00228",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00228",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00229",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00229",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00230",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00230",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00231",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00231",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00232",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00232",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00233",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00233",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00234",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00234",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00235",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00235",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00236",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2017,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00236",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2017,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00018",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00237",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2018,
+      "expected": 2017
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00237",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00238",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2018,
+      "expected": 2017
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00238",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00239",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2018,
+      "expected": 2017
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00239",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00240",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00240",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00019",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00019",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00241",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00241",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00242",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00242",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00243",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2021
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00243",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2021
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00024",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2022,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00025",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00025",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00026",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00026",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2023,
+      "expected": 2026
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00027",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2026
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00027",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2026
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00028",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2026
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00028",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2026
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00033",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2023
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00248",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2023
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00248",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2023
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00249",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2023
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00249",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2023
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00250",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2023
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00250",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2023
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00251",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2023
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00251",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2023
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00252",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2023
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00252",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2023
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00253",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2023
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00253",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2023
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00254",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 1997,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00254",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 1997,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00042",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2022,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00042",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2022,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00054",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2018,
+      "expected": 2017
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00057",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00057",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2022,
+      "expected": 2026
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00058",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00058",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00061",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2023
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00067",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2026
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00069",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2015,
+      "expected": 2026
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00071",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2026
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00073",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2025,
+      "expected": 2026
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00073",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2025,
+      "expected": 2026
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00258",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2022
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "data_00258",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2022
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00074",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2022
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00074",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2020,
+      "expected": 2022
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00075",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2022
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "metr_00085",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2017,
+      "expected": 2016
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00052",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00052",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00053",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00053",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00054",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00054",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00055",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00055",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00056",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00056",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00057",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00057",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00058",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00058",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00059",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00059",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00060",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00060",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00061",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00061",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00062",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00062",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00063",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00063",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00064",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00064",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2021,
+      "expected": 2024
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00251",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00251",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00252",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00252",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00253",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00253",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00254",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00254",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00255",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00255",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00256",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00256",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00257",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00257",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00258",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00258",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00259",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00259",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00260",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00260",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00261",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00261",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00262",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00262",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00263",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00263",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00264",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00264",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00265",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00265",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00266",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00266",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00267",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00267",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00268",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00268",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00269",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00269",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00270",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00270",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00271",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00271",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00272",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00272",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00273",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00273",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00274",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00274",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00275",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00275",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00276",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00276",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00277",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00277",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00278",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00278",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00279",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00279",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00280",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00280",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00281",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00281",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00282",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00282",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00283",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00283",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00284",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00284",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00285",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00285",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00286",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00286",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00287",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00287",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00288",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00288",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00289",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00289",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00290",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00290",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00291",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00291",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00292",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00292",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00293",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00293",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00294",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00294",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00295",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00295",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00296",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00296",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00297",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00297",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00298",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00298",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00299",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00299",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00300",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00300",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00301",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00301",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00302",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00302",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00303",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00303",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00304",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00304",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00305",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00305",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00306",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00306",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00307",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00307",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00308",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00308",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00309",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00309",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "first_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00310",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "last_seen_vs_sources",
+      "severity": "error",
+      "node_id": "clai_00310",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2024,
+      "expected": 2025
+    },
+    {
+      "code": "origin_after_observation",
+      "severity": "warning",
+      "node_id": "cite_00213",
+      "edge_id": null,
+      "article_id": null,
+      "observed": 2022,
+      "expected": {
+        "not_later_than": 2021
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00344",
+      "article_id": 5396,
+      "observed": 2017,
+      "expected": {
+        "source_year": 2018,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00344",
+      "article_id": 5396,
+      "observed": {
+        "edge_year": 2017,
+        "members": [
+          "data_00063",
+          "meth_00218"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00346",
+      "article_id": 5396,
+      "observed": 2017,
+      "expected": {
+        "source_year": 2018,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00346",
+      "article_id": 5396,
+      "observed": {
+        "edge_year": 2017,
+        "members": [
+          "data_00065",
+          "meth_00218"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00347",
+      "article_id": 5396,
+      "observed": 2017,
+      "expected": {
+        "source_year": 2018,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00347",
+      "article_id": 5396,
+      "observed": {
+        "edge_year": 2017,
+        "members": [
+          "data_00066",
+          "meth_00218"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00348",
+      "article_id": 5396,
+      "observed": 2017,
+      "expected": {
+        "source_year": 2018,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00348",
+      "article_id": 5396,
+      "observed": {
+        "edge_year": 2017,
+        "members": [
+          "data_00067",
+          "meth_00218"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00349",
+      "article_id": 5396,
+      "observed": 2017,
+      "expected": {
+        "source_year": 2018,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00349",
+      "article_id": 5396,
+      "observed": {
+        "edge_year": 2017,
+        "members": [
+          "data_00068",
+          "meth_00218"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00351",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00351",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "data_00216",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00352",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00352",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "data_00217",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00353",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00353",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "data_00218",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00354",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00354",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "data_00219",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00355",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00355",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "data_00220",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00357",
+      "article_id": 5440,
+      "observed": 2022,
+      "expected": {
+        "source_year": 2026,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00357",
+      "article_id": 5440,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "data_00164",
+          "meth_00417"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00361",
+      "article_id": 5440,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2026,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00361",
+      "article_id": 5440,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "data_00167",
+          "meth_00417"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00362",
+      "article_id": 5440,
+      "observed": 2022,
+      "expected": {
+        "source_year": 2026,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00362",
+      "article_id": 5440,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "data_00168",
+          "meth_00417"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00378",
+      "article_id": 5448,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2023,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00378",
+      "article_id": 5448,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "data_00130",
+          "meth_00329"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00379",
+      "article_id": 5448,
+      "observed": 2018,
+      "expected": {
+        "source_year": 2023,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00379",
+      "article_id": 5448,
+      "observed": {
+        "edge_year": 2018,
+        "members": [
+          "data_00131",
+          "meth_00329"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00385",
+      "article_id": 5388,
+      "observed": 2015,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00385",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2015,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00386",
+      "article_id": 5388,
+      "observed": 2015,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00386",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2015,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00387",
+      "article_id": 5388,
+      "observed": 2015,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00387",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2015,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00388",
+      "article_id": 5388,
+      "observed": 2015,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00388",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2015,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00389",
+      "article_id": 5388,
+      "observed": 2015,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00389",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2015,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00390",
+      "article_id": 5388,
+      "observed": 2015,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00390",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2015,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00391",
+      "article_id": 5388,
+      "observed": 2015,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00391",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2015,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00392",
+      "article_id": 5388,
+      "observed": 2015,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00392",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2015,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00393",
+      "article_id": 5388,
+      "observed": 2015,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00393",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2015,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00394",
+      "article_id": 5388,
+      "observed": 2015,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00394",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2015,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00395",
+      "article_id": 5388,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00395",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00396",
+      "article_id": 5388,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00396",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00397",
+      "article_id": 5388,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00397",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00398",
+      "article_id": 5388,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00398",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00399",
+      "article_id": 5388,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00399",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00407",
+      "article_id": 5388,
+      "observed": 2017,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00407",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2017,
+        "members": [
+          "meth_00171"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00409",
+      "article_id": 5388,
+      "observed": 2023,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00410",
+      "article_id": 5388,
+      "observed": 2023,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00411",
+      "article_id": 5388,
+      "observed": 2023,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00412",
+      "article_id": 5388,
+      "observed": 2023,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00413",
+      "article_id": 5388,
+      "observed": 2023,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00414",
+      "article_id": 5388,
+      "observed": 2023,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00415",
+      "article_id": 5388,
+      "observed": 2023,
+      "expected": {
+        "source_year": 2021,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00426",
+      "article_id": 5384,
+      "observed": 2022,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00426",
+      "article_id": 5384,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "data_00013",
+          "meth_00134"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00427",
+      "article_id": 5384,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00427",
+      "article_id": 5384,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "data_00014",
+          "meth_00134"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00428",
+      "article_id": 5384,
+      "observed": 2023,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00428",
+      "article_id": 5384,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "data_00015",
+          "meth_00134"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00429",
+      "article_id": 5442,
+      "observed": 2023,
+      "expected": {
+        "source_year": 2026,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00429",
+      "article_id": 5442,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "data_00013",
+          "meth_00292"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00430",
+      "article_id": 5442,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2026,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00430",
+      "article_id": 5442,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "data_00099",
+          "meth_00292"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00431",
+      "article_id": 5442,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2026,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00431",
+      "article_id": 5442,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "data_00100",
+          "meth_00292"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00453",
+      "article_id": 5395,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2023,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00454",
+      "article_id": 5395,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2023,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00455",
+      "article_id": 5395,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2023,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00456",
+      "article_id": 5395,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2023,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00457",
+      "article_id": 5395,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2023,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00458",
+      "article_id": 5395,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2023,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00473",
+      "article_id": 5441,
+      "observed": 2023,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00473",
+      "article_id": 5441,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "data_00164",
+          "meth_00313"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00474",
+      "article_id": 5441,
+      "observed": 2022,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00474",
+      "article_id": 5441,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "data_00170",
+          "meth_00313"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00475",
+      "article_id": 5441,
+      "observed": 1997,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00475",
+      "article_id": 5441,
+      "observed": {
+        "edge_year": 1997,
+        "members": [
+          "meth_00313"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00477",
+      "article_id": 5441,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00477",
+      "article_id": 5441,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "data_00013",
+          "meth_00313"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00486",
+      "article_id": 5439,
+      "observed": 2022,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00486",
+      "article_id": 5439,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "data_00162",
+          "meth_00414"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00497",
+      "article_id": 5387,
+      "observed": 2023,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00497",
+      "article_id": 5387,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "data_00016",
+          "meth_00159"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00513",
+      "article_id": 5392,
+      "observed": 2018,
+      "expected": {
+        "source_year": 2017,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00514",
+      "article_id": 5392,
+      "observed": 2018,
+      "expected": {
+        "source_year": 2017,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00515",
+      "article_id": 5392,
+      "observed": 2018,
+      "expected": {
+        "source_year": 2017,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00530",
+      "article_id": 5444,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00530",
+      "article_id": 5444,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "data_00106",
+          "meth_00081"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00531",
+      "article_id": 5444,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00531",
+      "article_id": 5444,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "data_00107",
+          "meth_00081"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00532",
+      "article_id": 5444,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00532",
+      "article_id": 5444,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "data_00108",
+          "meth_00081"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00533",
+      "article_id": 5444,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00533",
+      "article_id": 5444,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "data_00109",
+          "meth_00081"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00535",
+      "article_id": 5444,
+      "observed": 2022,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00535",
+      "article_id": 5444,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "data_00111",
+          "meth_00081"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00536",
+      "article_id": 5444,
+      "observed": 2022,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00536",
+      "article_id": 5444,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "data_00112",
+          "meth_00081"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00537",
+      "article_id": 5444,
+      "observed": 2022,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00537",
+      "article_id": 5444,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "data_00113",
+          "meth_00081"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00543",
+      "article_id": 5446,
+      "observed": 2015,
+      "expected": {
+        "source_year": 2023,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00543",
+      "article_id": 5446,
+      "observed": {
+        "edge_year": 2015,
+        "members": [
+          "data_00123",
+          "meth_00320"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00548",
+      "article_id": 5443,
+      "observed": 2022,
+      "expected": {
+        "source_year": 2026,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00548",
+      "article_id": 5443,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "data_00013",
+          "meth_00082"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00558",
+      "article_id": 5443,
+      "observed": 2022,
+      "expected": {
+        "source_year": 2026,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00558",
+      "article_id": 5443,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "data_00113",
+          "meth_00082"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00565",
+      "article_id": 5443,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2026,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00565",
+      "article_id": 5443,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "data_00187",
+          "meth_00082"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00566",
+      "article_id": 5443,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2026,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00566",
+      "article_id": 5443,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "data_00188",
+          "meth_00082"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00567",
+      "article_id": 5443,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2026,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00567",
+      "article_id": 5443,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "data_00164",
+          "meth_00082"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00569",
+      "article_id": 5443,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2026,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00569",
+      "article_id": 5443,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "data_00190",
+          "meth_00082"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00573",
+      "article_id": 5443,
+      "observed": 2025,
+      "expected": {
+        "source_year": 2026,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00573",
+      "article_id": 5443,
+      "observed": {
+        "edge_year": 2025,
+        "members": [
+          "data_00193",
+          "meth_00082"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00575",
+      "article_id": 5443,
+      "observed": 2015,
+      "expected": {
+        "source_year": 2026,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00575",
+      "article_id": 5443,
+      "observed": {
+        "edge_year": 2015,
+        "members": [
+          "data_00195",
+          "meth_00082"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00579",
+      "article_id": 5390,
+      "observed": 2020,
+      "expected": {
+        "source_year": 2022,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00579",
+      "article_id": 5390,
+      "observed": {
+        "edge_year": 2020,
+        "members": [
+          "meth_00188"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00580",
+      "article_id": 5390,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2022,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00580",
+      "article_id": 5390,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "data_00040",
+          "meth_00188"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00596",
+      "article_id": 5451,
+      "observed": 2017,
+      "expected": {
+        "source_year": 2016,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00597",
+      "article_id": 5451,
+      "observed": 2017,
+      "expected": {
+        "source_year": 2016,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00598",
+      "article_id": 5451,
+      "observed": 2017,
+      "expected": {
+        "source_year": 2016,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00600",
+      "article_id": 5451,
+      "observed": 2017,
+      "expected": {
+        "source_year": 2016,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00658",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00658",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "arti_00051",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00659",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00659",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "arti_00051",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00660",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00660",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "arti_00051",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00661",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00661",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "arti_00051",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00662",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00662",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "arti_00051",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00663",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00663",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "arti_00051",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00664",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00664",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "arti_00051",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00665",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00665",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "arti_00051",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00666",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00666",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "arti_00051",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00667",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00667",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "arti_00051",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00668",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00668",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "arti_00051",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00669",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00669",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "arti_00051",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00670",
+      "article_id": 5454,
+      "observed": 2021,
+      "expected": {
+        "source_year": 2024,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00670",
+      "article_id": 5454,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "arti_00051",
+          "meth_00437"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00058",
+      "edge_id": "h_00788",
+      "article_id": 5388,
+      "observed": [
+        5380,
+        5382,
+        5383,
+        5387
+      ],
+      "expected": {
+        "must_include": 5388
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00788",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "meth_00058"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00058",
+      "edge_id": "h_00789",
+      "article_id": 5388,
+      "observed": [
+        5380,
+        5382,
+        5383,
+        5387
+      ],
+      "expected": {
+        "must_include": 5388
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00789",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "meth_00058"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00058",
+      "edge_id": "h_00790",
+      "article_id": 5388,
+      "observed": [
+        5380,
+        5382,
+        5383,
+        5387
+      ],
+      "expected": {
+        "must_include": 5388
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00790",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "meth_00058"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00058",
+      "edge_id": "h_00791",
+      "article_id": 5388,
+      "observed": [
+        5380,
+        5382,
+        5383,
+        5387
+      ],
+      "expected": {
+        "must_include": 5388
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00791",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "meth_00058"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00058",
+      "edge_id": "h_00792",
+      "article_id": 5388,
+      "observed": [
+        5380,
+        5382,
+        5383,
+        5387
+      ],
+      "expected": {
+        "must_include": 5388
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00792",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "meth_00058"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00058",
+      "edge_id": "h_00793",
+      "article_id": 5388,
+      "observed": [
+        5380,
+        5382,
+        5383,
+        5387
+      ],
+      "expected": {
+        "must_include": 5388
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00793",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "meth_00058"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00058",
+      "edge_id": "h_00794",
+      "article_id": 5388,
+      "observed": [
+        5380,
+        5382,
+        5383,
+        5387
+      ],
+      "expected": {
+        "must_include": 5388
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00794",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "meth_00058"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00058",
+      "edge_id": "h_00795",
+      "article_id": 5388,
+      "observed": [
+        5380,
+        5382,
+        5383,
+        5387
+      ],
+      "expected": {
+        "must_include": 5388
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00795",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "meth_00058"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00058",
+      "edge_id": "h_00796",
+      "article_id": 5388,
+      "observed": [
+        5380,
+        5382,
+        5383,
+        5387
+      ],
+      "expected": {
+        "must_include": 5388
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00796",
+      "article_id": 5388,
+      "observed": {
+        "edge_year": 2021,
+        "members": [
+          "meth_00058"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00857",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00857",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00858",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00858",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00859",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00859",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00860",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00860",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00861",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00861",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00862",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00862",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00863",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00863",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00864",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00864",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00865",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00865",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00866",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00866",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00867",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00867",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00868",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00868",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00869",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00869",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00870",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00870",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00871",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00871",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00872",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00872",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00873",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00873",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00874",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00874",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00875",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00875",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00876",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00876",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00877",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00877",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00878",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00878",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00879",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00879",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00880",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00880",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00881",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00881",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00882",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00882",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00883",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00883",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00884",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00884",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00885",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00885",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00886",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00886",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00887",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00887",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00888",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00888",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00889",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00889",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00890",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00890",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00891",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00891",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00892",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00892",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00893",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00893",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00894",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00894",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00895",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00895",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00896",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00896",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00897",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00897",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00898",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00898",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00899",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00899",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00900",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00900",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00901",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00901",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00902",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00902",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00903",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00903",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00904",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00904",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00905",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00905",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00906",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00906",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00907",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00907",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00908",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00908",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00909",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00909",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00910",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00910",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00911",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00911",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00912",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00912",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00913",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00913",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00914",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00914",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00915",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00915",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "fact_year_vs_source",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00916",
+      "article_id": 5453,
+      "observed": 2024,
+      "expected": {
+        "source_year": 2025,
+        "equality_required": false
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_00916",
+      "article_id": 5453,
+      "observed": {
+        "edge_year": 2024,
+        "members": [
+          "arti_00050",
+          "meth_00388"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01148",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01148",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01149",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01149",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01150",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01150",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01151",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01151",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01152",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01152",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01153",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01153",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01154",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01154",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01155",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01155",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01156",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01156",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01157",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01157",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01158",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01158",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01159",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01159",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01160",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01160",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01161",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01161",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00169",
+      "edge_id": "h_01162",
+      "article_id": 5455,
+      "observed": [
+        5387
+      ],
+      "expected": {
+        "must_include": 5455
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01162",
+      "article_id": 5455,
+      "observed": {
+        "edge_year": 2023,
+        "members": [
+          "meth_00169"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00037",
+      "edge_id": "h_01245",
+      "article_id": 5390,
+      "observed": [
+        5384,
+        5387,
+        5391
+      ],
+      "expected": {
+        "must_include": 5390
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01245",
+      "article_id": 5390,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "meth_00037"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00037",
+      "edge_id": "h_01246",
+      "article_id": 5390,
+      "observed": [
+        5384,
+        5387,
+        5391
+      ],
+      "expected": {
+        "must_include": 5390
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01246",
+      "article_id": 5390,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "meth_00037"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00037",
+      "edge_id": "h_01247",
+      "article_id": 5390,
+      "observed": [
+        5384,
+        5387,
+        5391
+      ],
+      "expected": {
+        "must_include": 5390
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01247",
+      "article_id": 5390,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "meth_00037"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00037",
+      "edge_id": "h_01248",
+      "article_id": 5390,
+      "observed": [
+        5384,
+        5387,
+        5391
+      ],
+      "expected": {
+        "must_include": 5390
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01248",
+      "article_id": 5390,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "meth_00037"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00037",
+      "edge_id": "h_01249",
+      "article_id": 5390,
+      "observed": [
+        5384,
+        5387,
+        5391
+      ],
+      "expected": {
+        "must_include": 5390
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01249",
+      "article_id": 5390,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "meth_00037"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00037",
+      "edge_id": "h_01250",
+      "article_id": 5390,
+      "observed": [
+        5384,
+        5387,
+        5391
+      ],
+      "expected": {
+        "must_include": 5390
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01250",
+      "article_id": 5390,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "meth_00037"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00037",
+      "edge_id": "h_01251",
+      "article_id": 5390,
+      "observed": [
+        5384,
+        5387,
+        5391
+      ],
+      "expected": {
+        "must_include": 5390
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01251",
+      "article_id": 5390,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "meth_00037"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00037",
+      "edge_id": "h_01252",
+      "article_id": 5390,
+      "observed": [
+        5384,
+        5387,
+        5391
+      ],
+      "expected": {
+        "must_include": 5390
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01252",
+      "article_id": 5390,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "meth_00037"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00037",
+      "edge_id": "h_01253",
+      "article_id": 5390,
+      "observed": [
+        5384,
+        5387,
+        5391
+      ],
+      "expected": {
+        "must_include": 5390
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01253",
+      "article_id": 5390,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "meth_00037"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00037",
+      "edge_id": "h_01254",
+      "article_id": 5390,
+      "observed": [
+        5384,
+        5387,
+        5391
+      ],
+      "expected": {
+        "must_include": 5390
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01254",
+      "article_id": 5390,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "meth_00037"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00037",
+      "edge_id": "h_01255",
+      "article_id": 5390,
+      "observed": [
+        5384,
+        5387,
+        5391
+      ],
+      "expected": {
+        "must_include": 5390
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01255",
+      "article_id": 5390,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "meth_00037"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    },
+    {
+      "code": "missing_member_source",
+      "severity": "error",
+      "node_id": "meth_00037",
+      "edge_id": "h_01256",
+      "article_id": 5390,
+      "observed": [
+        5384,
+        5387,
+        5391
+      ],
+      "expected": {
+        "must_include": 5390
+      }
+    },
+    {
+      "code": "edge_before_member_observation",
+      "severity": "warning",
+      "node_id": null,
+      "edge_id": "h_01256",
+      "article_id": 5390,
+      "observed": {
+        "edge_year": 2022,
+        "members": [
+          "meth_00037"
+        ]
+      },
+      "expected": "review snapshot eligibility of all endpoints"
+    }
+  ]
+}

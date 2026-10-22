@@ -1,0 +1,9346 @@
+[
+  {
+    "group_id": "L0-bal000000",
+    "kind": "growth",
+    "level": 0,
+    "node_ids": [
+      "cite_00013",
+      "cite_00017",
+      "cite_00022",
+      "cite_00023",
+      "cite_00028",
+      "cite_00035",
+      "cite_00048",
+      "cite_00051",
+      "cite_00112",
+      "cite_00115",
+      "cite_00118",
+      "cite_00330",
+      "cite_00335",
+      "cite_00409",
+      "cite_00410",
+      "cite_00411",
+      "cite_00413",
+      "cite_00420",
+      "cite_00451",
+      "cite_00452",
+      "cite_00507",
+      "cite_00508",
+      "cite_00510",
+      "cite_00514",
+      "cite_00517",
+      "cite_00519",
+      "cite_00529",
+      "cite_00533",
+      "cite_00541",
+      "cite_00544",
+      "clai_00588",
+      "clai_00597",
+      "comp_00147",
+      "comp_00705",
+      "data_00158",
+      "meth_00038",
+      "meth_00054",
+      "meth_00106",
+      "meth_00125",
+      "meth_00163",
+      "meth_00169",
+      "meth_00170",
+      "meth_00300",
+      "meth_00393",
+      "meth_00416",
+      "meth_00441",
+      "meth_00442",
+      "meth_00444",
+      "metr_00026",
+      "metr_00042",
+      "metr_00055",
+      "metr_00056",
+      "task_00030",
+      "task_00031",
+      "tech_00203",
+      "tech_00792",
+      "tech_00793"
+    ],
+    "previous_group_ids": [
+      "L0-bal000000"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L0-bal000001",
+    "kind": "growth",
+    "level": 0,
+    "node_ids": [
+      "arti_00029",
+      "auth_00124",
+      "auth_00125",
+      "auth_00126",
+      "auth_00127",
+      "auth_00128",
+      "auth_00129",
+      "cite_00031",
+      "cite_00037",
+      "cite_00070",
+      "cite_00103",
+      "cite_00194",
+      "cite_00412",
+      "cite_00509",
+      "cite_00518",
+      "cite_00524",
+      "cite_00540",
+      "clai_00192",
+      "clai_00195",
+      "clai_00198",
+      "clai_00467",
+      "clai_00538",
+      "comp_00064",
+      "comp_00139",
+      "comp_00140",
+      "comp_00149",
+      "comp_00160",
+      "comp_00163",
+      "comp_00697",
+      "comp_00700",
+      "data_00113",
+      "futu_00056",
+      "futu_00145",
+      "meth_00164",
+      "meth_00221",
+      "meth_00306",
+      "prob_00004",
+      "task_00013",
+      "task_00029",
+      "task_00107",
+      "task_00109",
+      "task_00310",
+      "task_00321",
+      "tech_00134",
+      "tech_00138",
+      "tech_00205",
+      "tech_00214",
+      "tech_00217",
+      "tech_00441",
+      "tech_00443",
+      "tech_00459",
+      "tech_00785",
+      "tech_00943",
+      "tech_00944"
+    ],
+    "previous_group_ids": [
+      "L0-bal000001"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L0-bal000002",
+    "kind": "growth",
+    "level": 0,
+    "node_ids": [
+      "arti_00006",
+      "arti_00036",
+      "arti_00041",
+      "auth_00033",
+      "auth_00040",
+      "auth_00043",
+      "auth_00063",
+      "auth_00064",
+      "auth_00208",
+      "auth_00291",
+      "auth_00292",
+      "auth_00293",
+      "auth_00294",
+      "cite_00015",
+      "cite_00029",
+      "cite_00100",
+      "cite_00105",
+      "cite_00506",
+      "cite_00511",
+      "cite_00512",
+      "cite_00515",
+      "cite_00521",
+      "cite_00522",
+      "cite_00523",
+      "cite_00525",
+      "cite_00526",
+      "cite_00527",
+      "cite_00528",
+      "cite_00532",
+      "cite_00535",
+      "cite_00536",
+      "cite_00537",
+      "cite_00542",
+      "clai_00416",
+      "clai_00419",
+      "clai_00463",
+      "clai_00468",
+      "clai_00473",
+      "clai_00590",
+      "clai_00591",
+      "clai_00592",
+      "clai_00594",
+      "clai_00596",
+      "clai_00598",
+      "comp_00060",
+      "comp_00062",
+      "comp_00150",
+      "comp_00151",
+      "comp_00155",
+      "comp_00161",
+      "comp_00417",
+      "comp_00419",
+      "comp_00420",
+      "comp_00421",
+      "comp_00425",
+      "comp_00426",
+      "comp_00429",
+      "comp_00430",
+      "comp_00436",
+      "comp_00437",
+      "comp_00696",
+      "comp_00698",
+      "comp_00699",
+      "comp_00701",
+      "comp_00702",
+      "comp_00703",
+      "comp_00704",
+      "comp_00706",
+      "comp_00708",
+      "comp_00709",
+      "comp_00833",
+      "comp_00846",
+      "comp_00855",
+      "data_00248",
+      "data_00249",
+      "data_00250",
+      "data_00251",
+      "data_00252",
+      "data_00253",
+      "meth_00081",
+      "meth_00123",
+      "meth_00126",
+      "meth_00160",
+      "meth_00167",
+      "meth_00168",
+      "meth_00277",
+      "meth_00301",
+      "meth_00302",
+      "meth_00305",
+      "meth_00395",
+      "meth_00414",
+      "meth_00415",
+      "metr_00057",
+      "prob_00238",
+      "prob_00239",
+      "prob_00241",
+      "prob_00245",
+      "prob_00246",
+      "prob_00256",
+      "prob_00257",
+      "prob_00258",
+      "prob_00479",
+      "prob_00485",
+      "task_00296",
+      "task_00313",
+      "task_00326",
+      "tech_00010",
+      "tech_00037",
+      "tech_00081",
+      "tech_00206",
+      "tech_00209",
+      "tech_00215",
+      "tech_00439",
+      "tech_00444",
+      "tech_00446",
+      "tech_00448",
+      "tech_00449",
+      "tech_00451",
+      "tech_00452",
+      "tech_00464",
+      "tech_00465",
+      "tech_00776",
+      "tech_00777",
+      "tech_00779",
+      "tech_00780",
+      "tech_00784",
+      "tech_00789",
+      "tech_00790",
+      "tech_00796",
+      "tech_00800",
+      "tech_00801",
+      "tech_00941",
+      "tech_00956"
+    ],
+    "previous_group_ids": [
+      "L0-bal000002"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L0-bal000003",
+    "kind": "growth",
+    "level": 0,
+    "node_ids": [
+      "cite_00016",
+      "cite_00032",
+      "cite_00379",
+      "cite_00543",
+      "cite_00545",
+      "clai_00052",
+      "clai_00056",
+      "clai_00057",
+      "clai_00064",
+      "clai_00196",
+      "clai_00530",
+      "clai_00532",
+      "clai_00537",
+      "clai_00589",
+      "comp_00142",
+      "comp_00829",
+      "comp_00835",
+      "comp_00843",
+      "comp_00853",
+      "comp_00854",
+      "data_00103",
+      "data_00104",
+      "data_00105",
+      "data_00106",
+      "data_00107",
+      "data_00109",
+      "data_00110",
+      "data_00111",
+      "data_00112",
+      "data_00216",
+      "data_00217",
+      "data_00218",
+      "data_00219",
+      "data_00220",
+      "futu_00052",
+      "futu_00054",
+      "futu_00124",
+      "futu_00142",
+      "meth_00068",
+      "meth_00440",
+      "prob_00079",
+      "prob_00080",
+      "prob_00081",
+      "prob_00085",
+      "prob_00086",
+      "prob_00087",
+      "prob_00259",
+      "prob_00486",
+      "prob_00616",
+      "prob_00617",
+      "prob_00621",
+      "prob_00624",
+      "prob_00626",
+      "prob_00627",
+      "prob_00628",
+      "prob_00631",
+      "prob_00632",
+      "prob_00633",
+      "prob_00634",
+      "task_00007",
+      "task_00018",
+      "task_00020",
+      "task_00062",
+      "task_00105",
+      "task_00115",
+      "task_00122",
+      "task_00295",
+      "task_00297",
+      "task_00299",
+      "task_00307",
+      "task_00308",
+      "task_00309",
+      "task_00311",
+      "task_00608",
+      "task_00718",
+      "task_00719",
+      "task_00720",
+      "task_00723",
+      "task_00727",
+      "task_00728",
+      "task_00729",
+      "task_00730",
+      "task_00731",
+      "task_00732",
+      "tech_00198",
+      "tech_00202",
+      "tech_00938",
+      "tech_00950",
+      "tech_00960"
+    ],
+    "previous_group_ids": [
+      "L0-bal000003"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L0-bal000004",
+    "kind": "growth",
+    "level": 0,
+    "node_ids": [
+      "cite_00021",
+      "cite_00033",
+      "cite_00534",
+      "clai_00197",
+      "clai_00462",
+      "clai_00534",
+      "comp_00707",
+      "comp_00827",
+      "data_00108",
+      "data_00160",
+      "futu_00146",
+      "meth_00135",
+      "meth_00165",
+      "meth_00443",
+      "metr_00040",
+      "prob_00005",
+      "prob_00039",
+      "prob_00084",
+      "prob_00251",
+      "prob_00480",
+      "prob_00481",
+      "task_00298",
+      "task_00312",
+      "task_00607",
+      "task_00616",
+      "task_00617",
+      "tech_00136",
+      "tech_00783",
+      "tech_00803",
+      "tech_00804",
+      "tech_00934",
+      "tech_00947"
+    ],
+    "previous_group_ids": [
+      "L0-bal000004"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L0-bal000005",
+    "kind": "growth",
+    "level": 0,
+    "node_ids": [
+      "arti_00011",
+      "auth_00092",
+      "auth_00093",
+      "auth_00095",
+      "auth_00096",
+      "cite_00030",
+      "cite_00538",
+      "clai_00053",
+      "clai_00059",
+      "clai_00535",
+      "comp_00061",
+      "comp_00068",
+      "comp_00138",
+      "comp_00144",
+      "comp_00145",
+      "comp_00146",
+      "comp_00828",
+      "comp_00840",
+      "comp_00844",
+      "comp_00845",
+      "data_00016",
+      "meth_00064",
+      "meth_00079",
+      "meth_00159",
+      "meth_00166",
+      "meth_00446",
+      "meth_00447",
+      "prob_00040",
+      "prob_00242",
+      "prob_00263",
+      "prob_00629",
+      "tech_00014",
+      "tech_00029",
+      "tech_00097",
+      "tech_00133",
+      "tech_00137",
+      "tech_00197",
+      "tech_00201",
+      "tech_00204",
+      "tech_00468",
+      "tech_00470",
+      "tech_00933",
+      "tech_00936",
+      "tech_00940",
+      "tech_00949",
+      "tech_00953",
+      "tech_00959"
+    ],
+    "previous_group_ids": [
+      "L0-bal000005"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L0-bal000006",
+    "kind": "growth",
+    "level": 0,
+    "node_ids": [
+      "cite_00014",
+      "cite_00027",
+      "cite_00034",
+      "cite_00038",
+      "cite_00039",
+      "cite_00513",
+      "cite_00530",
+      "cite_00531",
+      "clai_00063",
+      "clai_00460",
+      "clai_00599",
+      "comp_00063",
+      "comp_00067",
+      "comp_00143",
+      "comp_00416",
+      "comp_00418",
+      "comp_00422",
+      "comp_00428",
+      "comp_00431",
+      "comp_00435",
+      "comp_00830",
+      "comp_00832",
+      "comp_00836",
+      "comp_00837",
+      "comp_00847",
+      "comp_00848",
+      "meth_00010",
+      "meth_00020",
+      "meth_00029",
+      "meth_00040",
+      "meth_00041",
+      "meth_00072",
+      "meth_00445",
+      "prob_00244",
+      "prob_00622",
+      "prob_00623",
+      "prob_00630",
+      "task_00618",
+      "task_00722",
+      "tech_00007",
+      "tech_00027",
+      "tech_00060",
+      "tech_00095",
+      "tech_00104",
+      "tech_00130",
+      "tech_00132",
+      "tech_00199",
+      "tech_00200",
+      "tech_00211",
+      "tech_00440",
+      "tech_00445",
+      "tech_00447",
+      "tech_00450",
+      "tech_00453",
+      "tech_00454",
+      "tech_00455",
+      "tech_00456",
+      "tech_00458",
+      "tech_00460",
+      "tech_00463",
+      "tech_00469",
+      "tech_00778",
+      "tech_00782",
+      "tech_00794",
+      "tech_00797",
+      "tech_00802",
+      "tech_00939",
+      "tech_00945",
+      "tech_00946",
+      "tech_00948",
+      "tech_00952",
+      "tech_00955",
+      "tech_00957",
+      "tech_00958",
+      "tech_00961",
+      "tech_00962"
+    ],
+    "previous_group_ids": [
+      "L0-bal000006"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L0-bal000007",
+    "kind": "growth",
+    "level": 0,
+    "node_ids": [
+      "cite_00520",
+      "clai_00060",
+      "clai_00194",
+      "clai_00465",
+      "clai_00469",
+      "clai_00471",
+      "clai_00472",
+      "clai_00539",
+      "clai_00541",
+      "comp_00066",
+      "comp_00069",
+      "comp_00148",
+      "comp_00153",
+      "futu_00055",
+      "futu_00107",
+      "futu_00125",
+      "futu_00126",
+      "futu_00143",
+      "meth_00127",
+      "meth_00162",
+      "meth_00303",
+      "metr_00041",
+      "prob_00037",
+      "prob_00038",
+      "prob_00243",
+      "prob_00247",
+      "prob_00248",
+      "prob_00254",
+      "prob_00260",
+      "prob_00482",
+      "prob_00487",
+      "prob_00490",
+      "prob_00491",
+      "prob_00494",
+      "prob_00619",
+      "prob_00625",
+      "task_00032",
+      "task_00067",
+      "task_00110",
+      "task_00292",
+      "task_00302",
+      "task_00325",
+      "task_00327",
+      "task_00328",
+      "task_00609",
+      "task_00612",
+      "task_00619",
+      "tech_00207",
+      "tech_00781",
+      "tech_00788"
+    ],
+    "previous_group_ids": [
+      "L0-bal000007"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L0-bal000008",
+    "kind": "growth",
+    "level": 0,
+    "node_ids": [
+      "arti_00051",
+      "auth_00012",
+      "auth_00307",
+      "auth_00313",
+      "auth_00314",
+      "auth_00315",
+      "auth_00316",
+      "auth_00317",
+      "auth_00318",
+      "clai_00061",
+      "clai_00062",
+      "clai_00191",
+      "clai_00199",
+      "clai_00414",
+      "clai_00418",
+      "clai_00461",
+      "clai_00466",
+      "clai_00474",
+      "clai_00531",
+      "clai_00536",
+      "clai_00540",
+      "clai_00595",
+      "comp_00065",
+      "comp_00141",
+      "comp_00152",
+      "comp_00157",
+      "comp_00158",
+      "comp_00162",
+      "comp_00841",
+      "comp_00842",
+      "data_00162",
+      "futu_00104",
+      "futu_00144",
+      "meth_00008",
+      "meth_00161",
+      "meth_00437",
+      "meth_00439",
+      "meth_00448",
+      "metr_00004",
+      "metr_00058",
+      "prob_00041",
+      "prob_00042",
+      "prob_00240",
+      "prob_00249",
+      "prob_00250",
+      "prob_00488",
+      "prob_00489",
+      "prob_00493",
+      "prob_00620",
+      "task_00017",
+      "task_00065",
+      "task_00108",
+      "task_00111",
+      "task_00114",
+      "task_00293",
+      "task_00294",
+      "task_00301",
+      "task_00314",
+      "task_00315",
+      "task_00316",
+      "task_00318",
+      "task_00319",
+      "task_00322",
+      "task_00323",
+      "task_00324",
+      "task_00554",
+      "task_00613",
+      "task_00721",
+      "tech_00135",
+      "tech_00212",
+      "tech_00216",
+      "tech_00791",
+      "tech_00795",
+      "tech_00932",
+      "tech_00951",
+      "tech_00954"
+    ],
+    "previous_group_ids": [
+      "L0-bal000008"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L0-bal000009",
+    "kind": "growth",
+    "level": 0,
+    "node_ids": [
+      "cite_00020",
+      "cite_00516",
+      "cite_00539",
+      "clai_00054",
+      "clai_00055",
+      "clai_00058",
+      "clai_00533",
+      "comp_00154",
+      "comp_00156",
+      "comp_00423",
+      "comp_00427",
+      "comp_00432",
+      "comp_00434",
+      "comp_00438",
+      "comp_00826",
+      "comp_00831",
+      "comp_00834",
+      "comp_00838",
+      "comp_00849",
+      "comp_00850",
+      "comp_00851",
+      "comp_00852",
+      "meth_00032",
+      "meth_00304",
+      "prob_00083",
+      "prob_00088",
+      "prob_00253",
+      "prob_00255",
+      "prob_00262",
+      "task_00610",
+      "task_00611",
+      "task_00724",
+      "task_00725",
+      "task_00726",
+      "tech_00131",
+      "tech_00208",
+      "tech_00210",
+      "tech_00442",
+      "tech_00457",
+      "tech_00462",
+      "tech_00466",
+      "tech_00467",
+      "tech_00786",
+      "tech_00787",
+      "tech_00798",
+      "tech_00799",
+      "tech_00931",
+      "tech_00935",
+      "tech_00937"
+    ],
+    "previous_group_ids": [
+      "L0-bal000009"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L0-bal000010",
+    "kind": "growth",
+    "level": 0,
+    "node_ids": [
+      "cite_00012",
+      "cite_00019",
+      "clai_00193",
+      "clai_00200",
+      "clai_00413",
+      "clai_00415",
+      "clai_00417",
+      "clai_00420",
+      "clai_00464",
+      "clai_00470",
+      "comp_00059",
+      "comp_00159",
+      "comp_00424",
+      "comp_00839",
+      "data_00161",
+      "futu_00053",
+      "futu_00057",
+      "futu_00105",
+      "futu_00106",
+      "futu_00147",
+      "meth_00438",
+      "prob_00035",
+      "prob_00036",
+      "prob_00089",
+      "prob_00252",
+      "prob_00261",
+      "prob_00618",
+      "task_00061",
+      "task_00063",
+      "task_00064",
+      "task_00066",
+      "task_00104",
+      "task_00106",
+      "task_00257",
+      "task_00300",
+      "task_00303",
+      "task_00304",
+      "task_00305",
+      "task_00317",
+      "task_00320",
+      "task_00717",
+      "tech_00213",
+      "tech_00438",
+      "tech_00471"
+    ],
+    "previous_group_ids": [
+      "L0-bal000010"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L0-bal000011",
+    "kind": "growth",
+    "level": 0,
+    "node_ids": [
+      "clai_00593",
+      "comp_00433",
+      "data_00159",
+      "prob_00483",
+      "prob_00484",
+      "prob_00492",
+      "task_00606",
+      "task_00614",
+      "task_00620",
+      "tech_00461",
+      "tech_00942"
+    ],
+    "previous_group_ids": [
+      "L0-bal000011"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000000",
+    "kind": "move",
+    "level": 1,
+    "node_ids": [
+      "cite_00022",
+      "cite_00118",
+      "cite_00514",
+      "cite_00519",
+      "meth_00054",
+      "meth_00444",
+      "metr_00026",
+      "task_00030",
+      "task_00031"
+    ],
+    "previous_group_ids": [
+      "L1-bal000000"
+    ],
+    "removed_node_ids": [
+      "cite_00563"
+    ]
+  },
+  {
+    "group_id": "L1-bal000001",
+    "kind": "move",
+    "level": 1,
+    "node_ids": [
+      "cite_00017",
+      "cite_00028",
+      "cite_00051",
+      "cite_00112",
+      "cite_00115",
+      "cite_00335",
+      "cite_00409",
+      "cite_00420",
+      "cite_00507",
+      "cite_00508",
+      "cite_00510",
+      "cite_00517",
+      "cite_00529",
+      "cite_00541",
+      "cite_00544",
+      "cite_00563",
+      "data_00158",
+      "meth_00163",
+      "meth_00300",
+      "meth_00393",
+      "meth_00441",
+      "tech_00792",
+      "tech_00793"
+    ],
+    "previous_group_ids": [
+      "L1-bal000001"
+    ],
+    "removed_node_ids": [
+      "cite_00492"
+    ]
+  },
+  {
+    "group_id": "L1-bal000002",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00031",
+      "cite_00037",
+      "cite_00070",
+      "cite_00103",
+      "cite_00194",
+      "cite_00412",
+      "cite_00509",
+      "cite_00518",
+      "cite_00540",
+      "clai_00467",
+      "comp_00697",
+      "comp_00700",
+      "data_00113",
+      "meth_00306",
+      "task_00013",
+      "task_00029",
+      "task_00310",
+      "task_00321"
+    ],
+    "previous_group_ids": [
+      "L1-bal000002"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000003",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00521",
+      "clai_00419",
+      "comp_00150",
+      "prob_00241",
+      "task_00313",
+      "tech_00081"
+    ],
+    "previous_group_ids": [
+      "L1-bal000003"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000004",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00413",
+      "cite_00451",
+      "comp_00705",
+      "meth_00038",
+      "meth_00170",
+      "meth_00442"
+    ],
+    "previous_group_ids": [
+      "L1-bal000004"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000005",
+    "kind": "move",
+    "level": 1,
+    "node_ids": [
+      "arti_00006",
+      "arti_00036",
+      "arti_00041",
+      "auth_00033",
+      "auth_00040",
+      "auth_00043",
+      "auth_00063",
+      "auth_00064",
+      "auth_00208",
+      "auth_00291",
+      "auth_00292",
+      "auth_00293",
+      "auth_00294",
+      "cite_00100",
+      "cite_00105",
+      "cite_00506",
+      "cite_00528",
+      "cite_00542",
+      "clai_00416",
+      "clai_00463",
+      "clai_00468",
+      "clai_00473",
+      "clai_00590",
+      "clai_00591",
+      "clai_00592",
+      "clai_00594",
+      "clai_00596",
+      "comp_00062",
+      "comp_00151",
+      "comp_00420",
+      "comp_00421",
+      "comp_00425",
+      "comp_00429",
+      "comp_00437",
+      "comp_00696",
+      "comp_00698",
+      "futu_00162",
+      "meth_00081",
+      "meth_00123",
+      "meth_00167",
+      "meth_00168",
+      "meth_00414",
+      "meth_00415",
+      "metr_00057",
+      "prob_00238",
+      "prob_00239",
+      "prob_00245",
+      "prob_00246",
+      "prob_00257",
+      "prob_00258",
+      "prob_00408",
+      "prob_00479",
+      "prob_00485",
+      "task_00326",
+      "tech_00439",
+      "tech_00444",
+      "tech_00448",
+      "tech_00449",
+      "tech_00451",
+      "tech_00777"
+    ],
+    "previous_group_ids": [
+      "L1-bal000005"
+    ],
+    "removed_node_ids": [
+      "comp_00167"
+    ]
+  },
+  {
+    "group_id": "L1-bal000006",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00015",
+      "cite_00477",
+      "cite_00522",
+      "cite_00525",
+      "cite_00536",
+      "cite_00537",
+      "clai_00495",
+      "comp_00702",
+      "meth_00277",
+      "meth_00349",
+      "meth_00395",
+      "task_00296"
+    ],
+    "previous_group_ids": [
+      "L1-bal000006"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000007",
+    "kind": "move",
+    "level": 1,
+    "node_ids": [
+      "cite_00543",
+      "clai_00196",
+      "comp_00835",
+      "futu_00052",
+      "futu_00124",
+      "task_00020"
+    ],
+    "previous_group_ids": [
+      "L1-bal000007"
+    ],
+    "removed_node_ids": [
+      "prob_00270",
+      "task_00376"
+    ]
+  },
+  {
+    "group_id": "L1-bal000008",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "task_00298",
+      "tech_00136"
+    ],
+    "previous_group_ids": [
+      "L1-bal000008"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000009",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00013",
+      "cite_00023",
+      "cite_00035",
+      "cite_00330",
+      "cite_00410",
+      "cite_00411",
+      "cite_00492",
+      "cite_00533",
+      "meth_00106",
+      "meth_00125",
+      "meth_00169"
+    ],
+    "previous_group_ids": [
+      "L1-bal000009"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000010",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "arti_00011",
+      "auth_00092",
+      "auth_00093",
+      "auth_00095",
+      "auth_00096",
+      "comp_00138",
+      "meth_00159",
+      "meth_00166",
+      "tech_00029",
+      "tech_00197",
+      "tech_00204",
+      "tech_00936"
+    ],
+    "previous_group_ids": [
+      "L1-bal000010"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000011",
+    "kind": "move",
+    "level": 1,
+    "node_ids": [
+      "cite_00523",
+      "cite_00526",
+      "cite_00527",
+      "cite_00535",
+      "comp_00263",
+      "comp_00699",
+      "comp_00701",
+      "comp_00703",
+      "comp_00704",
+      "comp_00708",
+      "comp_00709",
+      "comp_00833",
+      "comp_00846",
+      "comp_00855",
+      "meth_00126",
+      "tech_00776",
+      "tech_00779",
+      "tech_00780",
+      "tech_00789",
+      "tech_00790",
+      "tech_00941",
+      "tech_00956"
+    ],
+    "previous_group_ids": [
+      "L1-bal000011"
+    ],
+    "removed_node_ids": [
+      "futu_00162"
+    ]
+  },
+  {
+    "group_id": "L1-bal000012",
+    "kind": "move",
+    "level": 1,
+    "node_ids": [
+      "cite_00029",
+      "cite_00511",
+      "cite_00512",
+      "cite_00515",
+      "cite_00532",
+      "clai_00598",
+      "comp_00155",
+      "comp_00167",
+      "comp_00417",
+      "comp_00419",
+      "comp_00426",
+      "comp_00436",
+      "comp_00706",
+      "data_00248",
+      "data_00249",
+      "data_00250",
+      "data_00251",
+      "data_00252",
+      "data_00253",
+      "meth_00160",
+      "meth_00301",
+      "meth_00302",
+      "meth_00305",
+      "prob_00256",
+      "tech_00010",
+      "tech_00037",
+      "tech_00209",
+      "tech_00446",
+      "tech_00452",
+      "tech_00464",
+      "tech_00784",
+      "tech_00796",
+      "tech_00800",
+      "tech_00801"
+    ],
+    "previous_group_ids": [
+      "L1-bal000012"
+    ],
+    "removed_node_ids": [
+      "prob_00408"
+    ]
+  },
+  {
+    "group_id": "L1-bal000013",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00538",
+      "comp_00061",
+      "comp_00068",
+      "comp_00144",
+      "comp_00145",
+      "comp_00146",
+      "data_00016",
+      "prob_00040",
+      "prob_00242",
+      "tech_00014",
+      "tech_00097",
+      "tech_00133",
+      "tech_00137",
+      "tech_00201",
+      "tech_00470",
+      "tech_00940",
+      "tech_00959"
+    ],
+    "previous_group_ids": [
+      "L1-bal000013"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000014",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00014",
+      "cite_00034",
+      "cite_00038",
+      "cite_00531",
+      "comp_00063",
+      "comp_00067",
+      "meth_00020",
+      "meth_00041",
+      "meth_00072",
+      "tech_00007",
+      "tech_00027",
+      "tech_00130",
+      "tech_00132",
+      "tech_00450"
+    ],
+    "previous_group_ids": [
+      "L1-bal000014"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000015",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "arti_00029",
+      "auth_00124",
+      "auth_00125",
+      "auth_00126",
+      "auth_00127",
+      "auth_00128",
+      "auth_00129",
+      "cite_00524",
+      "clai_00192",
+      "clai_00198",
+      "clai_00538",
+      "comp_00064",
+      "meth_00221",
+      "prob_00004",
+      "tech_00134",
+      "tech_00138",
+      "tech_00441",
+      "tech_00443",
+      "tech_00459",
+      "tech_00785"
+    ],
+    "previous_group_ids": [
+      "L1-bal000015"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000016",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "clai_00541",
+      "futu_00107",
+      "futu_00126",
+      "futu_00143",
+      "meth_00162",
+      "prob_00037",
+      "prob_00038",
+      "prob_00243",
+      "prob_00247",
+      "prob_00260",
+      "prob_00487",
+      "prob_00490",
+      "task_00032",
+      "task_00067",
+      "task_00110",
+      "task_00292",
+      "task_00619"
+    ],
+    "previous_group_ids": [
+      "L1-bal000016"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000017",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "clai_00191",
+      "clai_00199",
+      "clai_00461",
+      "clai_00466",
+      "clai_00474",
+      "clai_00536",
+      "clai_00540",
+      "comp_00157",
+      "comp_00842",
+      "data_00162",
+      "futu_00144",
+      "metr_00058",
+      "prob_00488",
+      "prob_00489",
+      "prob_00493",
+      "task_00114",
+      "task_00721"
+    ],
+    "previous_group_ids": [
+      "L1-bal000017"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000018",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "comp_00143",
+      "comp_00422",
+      "comp_00435",
+      "prob_00622",
+      "tech_00199",
+      "tech_00778"
+    ],
+    "previous_group_ids": [
+      "L1-bal000018"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000019",
+    "kind": "move",
+    "level": 1,
+    "node_ids": [
+      "clai_00060",
+      "comp_00066",
+      "comp_00069",
+      "meth_00127",
+      "prob_00619",
+      "prob_00625",
+      "task_00609",
+      "tech_00781"
+    ],
+    "previous_group_ids": [
+      "L1-bal000019"
+    ],
+    "removed_node_ids": [
+      "comp_00214"
+    ]
+  },
+  {
+    "group_id": "L1-bal000020",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00520",
+      "clai_00465",
+      "clai_00469",
+      "clai_00471",
+      "clai_00472",
+      "clai_00539",
+      "comp_00214",
+      "futu_00125",
+      "meth_00303",
+      "metr_00041",
+      "prob_00248",
+      "prob_00254",
+      "prob_00482",
+      "prob_00491",
+      "prob_00494",
+      "task_00302",
+      "task_00325",
+      "task_00327",
+      "task_00328",
+      "task_00612",
+      "tech_00207",
+      "tech_00788"
+    ],
+    "previous_group_ids": [
+      "L1-bal000020"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000021",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "comp_00139",
+      "comp_00140",
+      "comp_00149",
+      "comp_00160",
+      "comp_00163",
+      "futu_00145",
+      "meth_00164",
+      "task_00107",
+      "task_00109",
+      "tech_00205",
+      "tech_00214",
+      "tech_00217",
+      "tech_00943",
+      "tech_00944"
+    ],
+    "previous_group_ids": [
+      "L1-bal000021"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000022",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00048",
+      "cite_00452",
+      "clai_00588",
+      "clai_00597",
+      "comp_00147",
+      "meth_00416",
+      "metr_00042",
+      "metr_00055",
+      "metr_00056",
+      "tech_00203"
+    ],
+    "previous_group_ids": [
+      "L1-bal000022"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000023",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00020",
+      "clai_00054",
+      "clai_00055",
+      "clai_00058",
+      "clai_00533",
+      "comp_00156",
+      "comp_00826",
+      "comp_00831",
+      "comp_00834",
+      "comp_00838",
+      "comp_00849",
+      "comp_00850",
+      "comp_00851",
+      "comp_00852",
+      "meth_00032",
+      "prob_00088",
+      "task_00724",
+      "task_00725",
+      "task_00726",
+      "tech_00210",
+      "tech_00466",
+      "tech_00786",
+      "tech_00787",
+      "tech_00798",
+      "tech_00931",
+      "tech_00935"
+    ],
+    "previous_group_ids": [
+      "L1-bal000023"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000024",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "clai_00194",
+      "comp_00148",
+      "comp_00153",
+      "futu_00055"
+    ],
+    "previous_group_ids": [
+      "L1-bal000024"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000025",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00027",
+      "cite_00039",
+      "comp_00832",
+      "comp_00836",
+      "comp_00837",
+      "meth_00029",
+      "meth_00445",
+      "prob_00244",
+      "tech_00458",
+      "tech_00460",
+      "tech_00469",
+      "tech_00797",
+      "tech_00945",
+      "tech_00957",
+      "tech_00962"
+    ],
+    "previous_group_ids": [
+      "L1-bal000025"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000026",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00516",
+      "cite_00539",
+      "comp_00154",
+      "comp_00423",
+      "comp_00427",
+      "comp_00432",
+      "comp_00434",
+      "comp_00438",
+      "meth_00304",
+      "prob_00083",
+      "prob_00253",
+      "prob_00255",
+      "prob_00262",
+      "task_00610",
+      "task_00611",
+      "tech_00131",
+      "tech_00208",
+      "tech_00442",
+      "tech_00457",
+      "tech_00462",
+      "tech_00467",
+      "tech_00799"
+    ],
+    "previous_group_ids": [
+      "L1-bal000026"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000027",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00033",
+      "clai_00197",
+      "comp_00827",
+      "data_00108",
+      "prob_00039",
+      "prob_00084",
+      "prob_00481",
+      "tech_00934",
+      "tech_00947"
+    ],
+    "previous_group_ids": [
+      "L1-bal000027"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000028",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00379",
+      "cite_00545",
+      "clai_00530",
+      "clai_00532",
+      "clai_00589",
+      "comp_00142",
+      "data_00103",
+      "data_00104",
+      "data_00105",
+      "data_00106",
+      "data_00107",
+      "data_00109",
+      "data_00110",
+      "data_00111",
+      "data_00112",
+      "futu_00054",
+      "futu_00142",
+      "meth_00440",
+      "prob_00079",
+      "prob_00080",
+      "prob_00085",
+      "prob_00086",
+      "prob_00087",
+      "task_00105",
+      "task_00115",
+      "task_00297",
+      "task_00307",
+      "task_00308",
+      "task_00309",
+      "task_00311",
+      "task_00376",
+      "tech_00198",
+      "tech_00938",
+      "tech_00960"
+    ],
+    "previous_group_ids": [
+      "L1-bal000028"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000029",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00030",
+      "clai_00053",
+      "clai_00059",
+      "clai_00535",
+      "comp_00828",
+      "comp_00845",
+      "meth_00064",
+      "meth_00079",
+      "meth_00446",
+      "meth_00447",
+      "tech_00468",
+      "tech_00953"
+    ],
+    "previous_group_ids": [
+      "L1-bal000029"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000030",
+    "kind": "move",
+    "level": 1,
+    "node_ids": [
+      "comp_00060",
+      "comp_00161",
+      "comp_00430",
+      "tech_00206",
+      "tech_00215",
+      "tech_00465"
+    ],
+    "previous_group_ids": [
+      "L1-bal000030"
+    ],
+    "removed_node_ids": [
+      "cite_00477",
+      "clai_00495",
+      "comp_00263",
+      "meth_00349"
+    ]
+  },
+  {
+    "group_id": "L1-bal000031",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "comp_00158",
+      "meth_00008",
+      "meth_00161",
+      "task_00017",
+      "task_00613",
+      "tech_00212",
+      "tech_00216"
+    ],
+    "previous_group_ids": [
+      "L1-bal000031"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000032",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00019",
+      "comp_00424",
+      "futu_00053",
+      "futu_00057",
+      "task_00317",
+      "task_00320",
+      "tech_00438"
+    ],
+    "previous_group_ids": [
+      "L1-bal000032"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000033",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "comp_00840",
+      "comp_00844",
+      "prob_00263",
+      "prob_00629",
+      "tech_00933",
+      "tech_00949"
+    ],
+    "previous_group_ids": [
+      "L1-bal000033"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000034",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "arti_00051",
+      "auth_00012",
+      "auth_00307",
+      "auth_00313",
+      "auth_00314",
+      "auth_00315",
+      "auth_00316",
+      "auth_00317",
+      "auth_00318",
+      "clai_00061",
+      "clai_00062",
+      "comp_00141",
+      "comp_00162",
+      "comp_00841",
+      "meth_00437",
+      "meth_00448",
+      "metr_00004",
+      "prob_00250",
+      "prob_00620",
+      "task_00108",
+      "task_00293",
+      "task_00294",
+      "task_00301",
+      "task_00314",
+      "task_00315",
+      "task_00316",
+      "task_00318",
+      "task_00319",
+      "task_00322",
+      "task_00323",
+      "task_00324",
+      "task_00554",
+      "tech_00932",
+      "tech_00951"
+    ],
+    "previous_group_ids": [
+      "L1-bal000034"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000035",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00012",
+      "meth_00438",
+      "prob_00618",
+      "task_00717"
+    ],
+    "previous_group_ids": [
+      "L1-bal000035"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000036",
+    "kind": "move",
+    "level": 1,
+    "node_ids": [
+      "prob_00621"
+    ],
+    "previous_group_ids": [
+      "L1-bal000036"
+    ],
+    "removed_node_ids": [
+      "prob_00001",
+      "prob_00016",
+      "task_00037",
+      "task_00195",
+      "task_00349"
+    ]
+  },
+  {
+    "group_id": "L1-bal000037",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "comp_00433",
+      "task_00614",
+      "tech_00461",
+      "tech_00942"
+    ],
+    "previous_group_ids": [
+      "L1-bal000037"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000038",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "clai_00414",
+      "clai_00418",
+      "clai_00531",
+      "clai_00595",
+      "comp_00065",
+      "comp_00152",
+      "futu_00104",
+      "prob_00041",
+      "prob_00042",
+      "prob_00240",
+      "prob_00249",
+      "task_00065",
+      "tech_00135",
+      "tech_00791",
+      "tech_00795",
+      "tech_00954"
+    ],
+    "previous_group_ids": [
+      "L1-bal000038"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000039",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "clai_00413",
+      "clai_00415",
+      "clai_00417",
+      "comp_00059",
+      "futu_00105",
+      "futu_00106",
+      "prob_00035",
+      "task_00061",
+      "task_00063",
+      "task_00064",
+      "task_00066"
+    ],
+    "previous_group_ids": [
+      "L1-bal000039"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000040",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00016",
+      "cite_00032",
+      "clai_00052",
+      "clai_00056",
+      "clai_00057",
+      "clai_00064",
+      "clai_00537",
+      "comp_00829",
+      "comp_00843",
+      "comp_00853",
+      "comp_00854",
+      "data_00216",
+      "data_00217",
+      "data_00218",
+      "data_00219",
+      "data_00220",
+      "meth_00068",
+      "prob_00001",
+      "prob_00016",
+      "prob_00081",
+      "prob_00259",
+      "prob_00270",
+      "prob_00486",
+      "prob_00616",
+      "prob_00617",
+      "prob_00624",
+      "prob_00626",
+      "prob_00627",
+      "prob_00628",
+      "prob_00631",
+      "prob_00632",
+      "prob_00633",
+      "prob_00634",
+      "task_00007",
+      "task_00018",
+      "task_00037",
+      "task_00062",
+      "task_00122",
+      "task_00195",
+      "task_00295",
+      "task_00299",
+      "task_00349",
+      "task_00608",
+      "task_00718",
+      "task_00719",
+      "task_00720",
+      "task_00723",
+      "task_00727",
+      "task_00728",
+      "task_00729",
+      "task_00730",
+      "task_00731",
+      "task_00732",
+      "tech_00202",
+      "tech_00950"
+    ],
+    "previous_group_ids": [
+      "L1-bal000040"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000041",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00534",
+      "comp_00707",
+      "meth_00135",
+      "meth_00165"
+    ],
+    "previous_group_ids": [
+      "L1-bal000041"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000042",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "meth_00439",
+      "task_00111"
+    ],
+    "previous_group_ids": [
+      "L1-bal000042"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000043",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00021",
+      "clai_00462",
+      "clai_00534",
+      "data_00160",
+      "futu_00146",
+      "meth_00443",
+      "metr_00040",
+      "prob_00005",
+      "prob_00251",
+      "prob_00480",
+      "task_00312",
+      "task_00607",
+      "task_00616",
+      "task_00617",
+      "tech_00783",
+      "tech_00803",
+      "tech_00804"
+    ],
+    "previous_group_ids": [
+      "L1-bal000043"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000044",
+    "kind": "move",
+    "level": 1,
+    "node_ids": [
+      "clai_00593"
+    ],
+    "previous_group_ids": [
+      "L1-bal000044"
+    ],
+    "removed_node_ids": [
+      "task_00504"
+    ]
+  },
+  {
+    "group_id": "L1-bal000045",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "clai_00195",
+      "futu_00056"
+    ],
+    "previous_group_ids": [
+      "L1-bal000045"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000046",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "clai_00193",
+      "clai_00200",
+      "clai_00420",
+      "clai_00464",
+      "clai_00470",
+      "comp_00159",
+      "comp_00839",
+      "data_00161",
+      "futu_00147",
+      "prob_00036",
+      "prob_00089",
+      "prob_00252",
+      "prob_00261",
+      "task_00104",
+      "task_00106",
+      "task_00257",
+      "task_00300",
+      "task_00303",
+      "task_00304",
+      "task_00305",
+      "tech_00213",
+      "tech_00471"
+    ],
+    "previous_group_ids": [
+      "L1-bal000046"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000047",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "tech_00937"
+    ],
+    "previous_group_ids": [
+      "L1-bal000047"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000048",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "data_00159",
+      "prob_00483",
+      "prob_00484",
+      "prob_00492",
+      "task_00504",
+      "task_00606",
+      "task_00620"
+    ],
+    "previous_group_ids": [
+      "L1-bal000048"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "L1-bal000049",
+    "kind": "growth",
+    "level": 1,
+    "node_ids": [
+      "cite_00513",
+      "cite_00530",
+      "clai_00063",
+      "clai_00460",
+      "clai_00599",
+      "comp_00416",
+      "comp_00418",
+      "comp_00428",
+      "comp_00431",
+      "comp_00830",
+      "comp_00847",
+      "comp_00848",
+      "meth_00010",
+      "meth_00040",
+      "prob_00623",
+      "prob_00630",
+      "task_00618",
+      "task_00722",
+      "tech_00060",
+      "tech_00095",
+      "tech_00104",
+      "tech_00200",
+      "tech_00211",
+      "tech_00440",
+      "tech_00445",
+      "tech_00447",
+      "tech_00453",
+      "tech_00454",
+      "tech_00455",
+      "tech_00456",
+      "tech_00463",
+      "tech_00782",
+      "tech_00794",
+      "tech_00802",
+      "tech_00939",
+      "tech_00946",
+      "tech_00948",
+      "tech_00952",
+      "tech_00955",
+      "tech_00958",
+      "tech_00961"
+    ],
+    "previous_group_ids": [
+      "L1-bal000049"
+    ],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:arti_00006",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "arti_00006"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:arti_00011",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "arti_00011"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:arti_00029",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "arti_00029"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:arti_00036",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "arti_00036"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:arti_00041",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "arti_00041"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:arti_00051",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "arti_00051"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00012",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00012"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00033",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00033"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00040",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00040"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00043",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00043"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00063",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00063"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00064",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00064"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00092",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00092"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00093",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00093"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00095",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00095"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00096",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00096"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00124",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00124"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00125",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00125"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00126",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00126"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00127",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00127"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00128",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00128"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00129",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00129"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00208",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00208"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00291",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00291"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00292",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00292"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00293",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00293"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00294",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00294"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00307",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00307"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00313",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00313"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00314",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00314"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00315",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00315"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00316",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00316"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00317",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00317"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:auth_00318",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "auth_00318"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00012",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00012"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00013",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00013"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00014",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00014"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00015",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00015"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00016",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00016"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00017",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00017"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00019",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00019"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00020",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00020"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00021",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00021"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00022",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00022"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00023",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00023"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00027",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00027"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00028",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00028"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00029",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00029"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00030",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00030"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00031",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00031"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00032",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00032"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00033",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00033"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00034",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00034"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00035",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00035"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00037",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00037"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00038",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00038"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00039",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00039"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00048",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00048"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00051",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00051"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00070",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00070"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00100",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00100"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00103",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00103"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00105",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00105"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00112",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00112"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00115",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00115"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00118",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00118"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00194",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00194"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00330",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00330"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00335",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00335"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00379",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00379"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00409",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00409"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00410",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00410"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00411",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00411"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00412",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00412"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00413",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00413"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00420",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00420"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00451",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00451"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00452",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00452"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00506",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00506"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00507",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00507"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00508",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00508"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00509",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00509"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00510",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00510"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00511",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00511"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00512",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00512"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00513",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00513"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00514",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00514"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00515",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00515"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00516",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00516"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00517",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00517"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00518",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00518"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00519",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00519"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00520",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00520"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00521",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00521"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00522",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00522"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00523",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00523"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00524",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00524"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00525",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00525"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00526",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00526"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00527",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00527"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00528",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00528"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00529",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00529"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00530",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00530"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00531",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00531"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00532",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00532"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00533",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00533"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00534",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00534"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00535",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00535"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00536",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00536"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00537",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00537"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00538",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00538"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00539",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00539"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00540",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00540"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00541",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00541"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00542",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00542"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00543",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00543"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00544",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00544"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:cite_00545",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "cite_00545"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00052",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00052"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00053",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00053"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00054",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00054"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00055",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00055"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00056",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00056"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00057",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00057"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00058",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00058"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00059",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00059"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00060",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00060"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00061",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00061"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00062",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00062"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00063",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00063"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00064",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00064"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00191",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00191"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00192",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00192"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00193",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00193"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00194",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00194"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00195",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00195"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00196",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00196"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00197",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00197"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00198",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00198"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00199",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00199"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00200",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00200"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00413",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00413"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00414",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00414"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00415",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00415"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00416",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00416"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00417",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00417"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00418",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00418"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00419",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00419"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00420",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00420"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00460",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00460"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00461",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00461"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00462",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00462"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00463",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00463"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00464",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00464"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00465",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00465"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00466",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00466"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00467",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00467"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00468",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00468"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00469",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00469"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00470",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00470"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00471",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00471"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00472",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00472"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00473",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00473"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00474",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00474"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00530",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00530"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00531",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00531"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00532",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00532"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00533",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00533"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00534",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00534"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00535",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00535"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00536",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00536"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00537",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00537"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00538",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00538"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00539",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00539"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00540",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00540"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00541",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00541"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00588",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00588"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00589",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00589"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00590",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00590"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00591",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00591"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00592",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00592"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00593",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00593"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00594",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00594"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00595",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00595"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00596",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00596"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00597",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00597"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00598",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00598"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:clai_00599",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "clai_00599"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00059",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00059"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00060",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00060"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00061",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00061"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00062",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00062"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00063",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00063"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00064",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00064"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00065",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00065"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00066",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00066"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00067",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00067"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00068",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00068"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00069",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00069"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00138",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00138"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00139",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00139"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00140",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00140"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00141",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00141"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00142",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00142"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00143",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00143"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00144",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00144"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00145",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00145"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00146",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00146"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00147",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00147"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00148",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00148"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00149",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00149"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00150",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00150"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00151",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00151"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00152",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00152"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00153",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00153"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00154",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00154"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00155",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00155"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00156",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00156"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00157",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00157"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00158",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00158"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00159",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00159"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00160",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00160"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00161",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00161"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00162",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00162"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00163",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00163"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00416",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00416"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00417",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00417"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00418",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00418"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00419",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00419"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00420",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00420"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00421",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00421"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00422",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00422"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00423",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00423"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00424",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00424"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00425",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00425"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00426",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00426"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00427",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00427"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00428",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00428"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00429",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00429"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00430",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00430"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00431",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00431"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00432",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00432"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00433",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00433"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00434",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00434"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00435",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00435"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00436",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00436"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00437",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00437"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00438",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00438"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00696",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00696"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00697",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00697"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00698",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00698"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00699",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00699"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00700",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00700"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00701",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00701"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00702",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00702"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00703",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00703"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00704",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00704"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00705",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00705"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00706",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00706"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00707",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00707"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00708",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00708"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00709",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00709"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00826",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00826"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00827",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00827"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00828",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00828"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00829",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00829"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00830",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00830"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00831",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00831"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00832",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00832"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00833",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00833"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00834",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00834"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00835",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00835"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00836",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00836"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00837",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00837"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00838",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00838"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00839",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00839"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00840",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00840"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00841",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00841"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00842",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00842"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00843",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00843"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00844",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00844"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00845",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00845"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00846",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00846"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00847",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00847"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00848",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00848"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00849",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00849"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00850",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00850"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00851",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00851"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00852",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00852"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00853",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00853"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00854",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00854"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:comp_00855",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "comp_00855"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00016",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00016"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00103",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00103"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00104",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00104"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00105",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00105"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00106",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00106"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00107",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00107"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00108",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00108"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00109",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00109"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00110",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00110"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00111",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00111"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00112",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00112"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00113",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00113"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00158",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00158"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00159",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00159"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00160",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00160"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00161",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00161"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00162",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00162"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00216",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00216"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00217",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00217"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00218",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00218"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00219",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00219"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00220",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00220"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00248",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00248"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00249",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00249"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00250",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00250"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00251",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00251"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00252",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00252"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:data_00253",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "data_00253"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00052",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00052"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00053",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00053"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00054",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00054"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00055",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00055"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00056",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00056"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00057",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00057"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00104",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00104"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00105",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00105"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00106",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00106"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00107",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00107"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00124",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00124"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00125",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00125"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00126",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00126"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00142",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00142"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00143",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00143"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00144",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00144"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00145",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00145"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00146",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00146"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:futu_00147",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "futu_00147"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00008",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00008"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00010",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00010"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00020",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00020"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00029",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00029"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00032",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00032"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00038",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00038"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00040",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00040"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00041",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00041"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00054",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00054"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00064",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00064"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00068",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00068"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00072",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00072"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00079",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00079"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00081",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00081"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00106",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00106"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00123",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00123"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00125",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00125"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00126",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00126"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00127",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00127"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00135",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00135"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00159",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00159"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00160",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00160"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00161",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00161"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00162",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00162"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00163",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00163"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00164",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00164"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00165",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00165"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00166",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00166"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00167",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00167"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00168",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00168"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00169",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00169"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00170",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00170"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00221",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00221"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00277",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00277"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00300",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00300"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00301",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00301"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00302",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00302"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00303",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00303"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00304",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00304"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00305",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00305"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00306",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00306"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00393",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00393"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00395",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00395"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00414",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00414"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00415",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00415"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00416",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00416"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00437",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00437"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00438",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00438"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00439",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00439"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00440",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00440"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00441",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00441"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00442",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00442"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00443",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00443"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00444",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00444"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00445",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00445"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00446",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00446"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00447",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00447"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:meth_00448",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "meth_00448"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:metr_00004",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "metr_00004"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:metr_00026",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "metr_00026"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:metr_00040",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "metr_00040"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:metr_00041",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "metr_00041"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:metr_00042",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "metr_00042"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:metr_00055",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "metr_00055"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:metr_00056",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "metr_00056"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:metr_00057",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "metr_00057"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:metr_00058",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "metr_00058"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00004",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00004"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00005",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00005"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00035",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00035"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00036",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00036"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00037",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00037"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00038",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00038"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00039",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00039"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00040",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00040"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00041",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00041"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00042",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00042"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00079",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00079"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00080",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00080"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00081",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00081"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00083",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00083"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00084",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00084"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00085",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00085"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00086",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00086"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00087",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00087"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00088",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00088"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00089",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00089"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00238",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00238"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00239",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00239"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00240",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00240"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00241",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00241"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00242",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00242"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00243",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00243"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00244",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00244"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00245",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00245"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00246",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00246"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00247",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00247"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00248",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00248"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00249",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00249"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00250",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00250"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00251",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00251"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00252",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00252"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00253",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00253"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00254",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00254"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00255",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00255"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00256",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00256"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00257",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00257"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00258",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00258"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00259",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00259"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00260",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00260"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00261",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00261"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00262",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00262"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00263",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00263"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00479",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00479"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00480",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00480"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00481",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00481"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00482",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00482"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00483",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00483"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00484",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00484"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00485",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00485"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00486",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00486"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00487",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00487"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00488",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00488"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00489",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00489"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00490",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00490"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00491",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00491"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00492",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00492"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00493",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00493"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00494",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00494"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00616",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00616"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00617",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00617"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00618",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00618"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00619",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00619"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00620",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00620"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00621",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00621"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00622",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00622"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00623",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00623"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00624",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00624"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00625",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00625"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00626",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00626"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00627",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00627"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00628",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00628"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00629",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00629"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00630",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00630"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00631",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00631"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00632",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00632"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00633",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00633"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:prob_00634",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "prob_00634"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00007",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00007"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00013",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00013"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00017",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00017"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00018",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00018"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00020",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00020"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00029",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00029"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00030",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00030"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00031",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00031"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00032",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00032"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00061",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00061"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00062",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00062"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00063",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00063"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00064",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00064"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00065",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00065"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00066",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00066"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00067",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00067"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00104",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00104"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00105",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00105"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00106",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00106"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00107",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00107"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00108",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00108"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00109",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00109"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00110",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00110"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00111",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00111"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00114",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00114"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00115",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00115"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00122",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00122"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00257",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00257"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00292",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00292"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00293",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00293"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00294",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00294"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00295",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00295"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00296",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00296"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00297",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00297"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00298",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00298"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00299",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00299"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00300",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00300"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00301",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00301"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00302",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00302"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00303",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00303"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00304",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00304"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00305",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00305"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00307",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00307"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00308",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00308"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00309",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00309"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00310",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00310"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00311",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00311"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00312",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00312"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00313",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00313"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00314",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00314"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00315",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00315"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00316",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00316"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00317",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00317"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00318",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00318"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00319",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00319"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00320",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00320"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00321",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00321"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00322",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00322"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00323",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00323"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00324",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00324"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00325",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00325"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00326",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00326"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00327",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00327"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00328",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00328"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00554",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00554"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00606",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00606"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00607",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00607"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00608",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00608"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00609",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00609"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00610",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00610"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00611",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00611"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00612",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00612"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00613",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00613"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00614",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00614"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00616",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00616"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00617",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00617"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00618",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00618"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00619",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00619"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00620",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00620"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00717",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00717"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00718",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00718"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00719",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00719"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00720",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00720"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00721",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00721"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00722",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00722"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00723",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00723"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00724",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00724"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00725",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00725"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00726",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00726"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00727",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00727"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00728",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00728"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00729",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00729"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00730",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00730"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00731",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00731"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:task_00732",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "task_00732"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00007",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00007"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00010",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00010"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00014",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00014"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00027",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00027"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00029",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00029"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00037",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00037"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00060",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00060"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00081",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00081"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00095",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00095"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00097",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00097"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00104",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00104"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00130",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00130"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00131",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00131"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00132",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00132"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00133",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00133"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00134",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00134"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00135",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00135"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00136",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00136"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00137",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00137"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00138",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00138"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00197",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00197"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00198",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00198"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00199",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00199"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00200",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00200"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00201",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00201"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00202",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00202"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00203",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00203"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00204",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00204"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00205",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00205"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00206",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00206"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00207",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00207"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00208",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00208"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00209",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00209"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00210",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00210"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00211",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00211"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00212",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00212"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00213",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00213"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00214",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00214"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00215",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00215"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00216",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00216"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00217",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00217"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00438",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00438"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00439",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00439"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00440",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00440"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00441",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00441"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00442",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00442"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00443",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00443"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00444",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00444"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00445",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00445"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00446",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00446"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00447",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00447"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00448",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00448"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00449",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00449"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00450",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00450"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00451",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00451"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00452",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00452"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00453",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00453"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00454",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00454"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00455",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00455"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00456",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00456"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00457",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00457"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00458",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00458"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00459",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00459"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00460",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00460"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00461",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00461"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00462",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00462"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00463",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00463"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00464",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00464"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00465",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00465"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00466",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00466"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00467",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00467"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00468",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00468"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00469",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00469"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00470",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00470"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00471",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00471"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00776",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00776"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00777",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00777"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00778",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00778"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00779",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00779"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00780",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00780"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00781",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00781"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00782",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00782"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00783",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00783"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00784",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00784"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00785",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00785"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00786",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00786"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00787",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00787"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00788",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00788"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00789",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00789"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00790",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00790"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00791",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00791"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00792",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00792"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00793",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00793"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00794",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00794"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00795",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00795"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00796",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00796"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00797",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00797"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00798",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00798"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00799",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00799"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00800",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00800"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00801",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00801"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00802",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00802"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00803",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00803"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00804",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00804"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00931",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00931"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00932",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00932"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00933",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00933"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00934",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00934"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00935",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00935"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00936",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00936"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00937",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00937"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00938",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00938"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00939",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00939"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00940",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00940"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00941",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00941"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00942",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00942"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00943",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00943"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00944",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00944"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00945",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00945"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00946",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00946"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00947",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00947"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00948",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00948"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00949",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00949"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00950",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00950"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00951",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00951"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00952",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00952"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00953",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00953"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00954",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00954"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00955",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00955"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00956",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00956"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00957",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00957"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00958",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00958"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00959",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00959"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00960",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00960"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00961",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00961"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  },
+  {
+    "group_id": "node:tech_00962",
+    "kind": "birth",
+    "level": 2,
+    "node_ids": [
+      "tech_00962"
+    ],
+    "previous_group_ids": [],
+    "removed_node_ids": []
+  }
+]

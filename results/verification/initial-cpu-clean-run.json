@@ -1,0 +1,19 @@
+{
+  "clean_make_all_exit_code": 0,
+  "clean_checkout": "Extracted actual submission ZIP, no .env or API keys",
+  "neural_boundary": "Real pinned MiniLM on CPU, fresh Hugging Face and vector caches; no model stub",
+  "retrieval_reports_exactly_match_first_run": true,
+  "source_modules_match_current_worktree": true,
+  "new_label_api_calls": 0,
+  "new_judge_api_calls": 0,
+  "archived_labels": 310,
+  "checked_sample": 20,
+  "judge_model": "nvidia/nemotron-3-ultra-550b-a55b",
+  "judge_control_gate": true,
+  "deterministic_empty_evidence_rule": 1,
+  "tests": "464 passed in 31.49s",
+  "logs": "results/verification/clean-reproduction.log and results/verification/final-tests.log",
+  "scientific_status": "Matched hierarchy retrieval gain unestablished; full_spec_satisfied remains false.",
+  "standalone_output_root_validator": "Both raw and labelled actual structures passed; invalid child fixtures are rejected",
+  "public_label_cli_default": "NVIDIA, verified with prepare-only and no API call"
+}

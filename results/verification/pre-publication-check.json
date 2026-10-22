@@ -1,0 +1,17 @@
+{
+  "checked_at_utc": "2026-10-22T15:47:21.075260+00:00",
+  "official_spec_sha256": "0fd650fcd26b919d88cc169bc4ce8b01349247f2ba9591426156a95e155a97cf",
+  "full_checklist": "docs/REQUIREMENTS.md",
+  "data_description": "docs/DATA_SUMMARY.md",
+  "tests": "472 passed in 39.75s",
+  "standalone_validation": "pass",
+  "report_exactly_matches_metrics_renderer": true,
+  "report_pdf_pages": 5,
+  "timed_runtime_files_unchanged": 71,
+  "recorded_clean_make_all_wall_seconds": 411.1,
+  "new_algorithm_experiments": 0,
+  "new_model_api_requests": 0,
+  "publication_history": "One clean root commit; earlier local branches and experimental history are not published.",
+  "visibility": "public, explicitly selected by the user",
+  "scope": "Implementation/coverage and reproducibility audit; empirical limits remain explicit, not converted into guarantees."
+}

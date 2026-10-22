@@ -1,0 +1,63 @@
+{
+  "asset_sha256": {
+    "construction_metadata.json": "e3191f5b3fa9915227da5ef3452932b06b6d4efbff52881a49ff4086d1860df2",
+    "construction_vectors.npz": "d266d438134ade4e1292faf251fc68c98625575a2e31610e6417a3bc338c426c"
+  },
+  "budgets": [
+    12,
+    50
+  ],
+  "enable_novelty": false,
+  "enable_split": false,
+  "encoder": {
+    "backend": "sentence-transformers==5.2.0",
+    "device": "cpu",
+    "dimension": 384,
+    "long_text_policy": "Sentence Transformers truncation after 256 word-piece tokens",
+    "max_length": 256,
+    "model_id": "sentence-transformers/all-MiniLM-L6-v2",
+    "normalize": true,
+    "output_dtype": "float32",
+    "prefix": "",
+    "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41"
+  },
+  "execution_policy": "Offline frozen own-model cache; real initial solve and persisted-state updates.",
+  "gamma": 0.03,
+  "gold_policy": "No questions or ground-truth answers read by construction.",
+  "initial_strategy": "balanced",
+  "input_sha256": "5cc507de0432c111c2bbbc5b50899f952fd24f515313c7c4e99450d8d0211b3b",
+  "max_old_fraction": 0.1,
+  "method": "bounded",
+  "movement_strength": 0.05,
+  "novelty_policy": "exploratory",
+  "planned_years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "schema_version": "submission-construction-protocol-v1",
+  "seed": 20261019,
+  "selection_policy": "Fixed historical development choice; no reselection or new tuning.",
+  "singleton_budget_policy": "visible_node_count",
+  "source_sha256": {
+    "balanced_hierarchy.py": "14db6881529c07d864d7c5661ea2498f2454575bd287a2855c49a4751100b719",
+    "divisive_hierarchy.py": "a149db3443499bed81bd41acaf15df514b2ba59a44aa1aff6ba998588608627a",
+    "divisive_solver.py": "09da88f771bc71b34f3b977792c974e8e144ee2b346ff7c7e32b03da4a07a14b",
+    "hierarchy.py": "f4e71c83b500ac9c9dfc507d8372d0a8bf905fed9c64d81f25db447e881759a6",
+    "hierarchy_evaluation.py": "1751b294b368f2af7fa712b6668131508d4c9994d5765eb8c84c26f459338b33",
+    "local_update.py": "866eb69a9b03c3d268230ee3a2a44fe63ccab9decd01481ec0776cbed5f284de",
+    "submission_pipeline.py": "f12512bcbe0c3e710f2c362804b3e5f2ebd8903637d8d15f218438023af3a9ce",
+    "temporal_input.py": "601616521776f518247cf5d2cac33286333f1f4feb3ff452439551bc337253f8",
+    "validation.py": "1d21bb674bacdb1d70e69ae45a5c93247c54ffda61f40e05fe19b116314f5419"
+  },
+  "time_policy": "conservative-publication-v1",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ]
+}

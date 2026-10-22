@@ -1,0 +1,611 @@
+code,severity,node_id,edge_id,article_id,observed,expected
+origin_after_observation,warning,meth_00175,,,2022,"{""not_later_than"": 2021}"
+origin_after_observation,warning,meth_00209,,,2018,"{""not_later_than"": 2017}"
+first_seen_vs_sources,error,metr_00002,,,2017,2018
+first_seen_vs_sources,error,metr_00004,,,2021,2024
+first_seen_vs_sources,error,metr_00005,,,1997,2021
+first_seen_vs_sources,error,metr_00006,,,2022,2026
+last_seen_vs_sources,error,metr_00006,,,2022,2026
+first_seen_vs_sources,error,metr_00009,,,2020,2026
+last_seen_vs_sources,error,metr_00009,,,2020,2026
+first_seen_vs_sources,error,metr_00015,,,2018,2023
+first_seen_vs_sources,error,data_00221,,,2015,2021
+last_seen_vs_sources,error,data_00221,,,2015,2021
+first_seen_vs_sources,error,metr_00017,,,2015,2021
+first_seen_vs_sources,error,data_00222,,,2015,2021
+last_seen_vs_sources,error,data_00222,,,2015,2021
+first_seen_vs_sources,error,data_00223,,,2015,2021
+last_seen_vs_sources,error,data_00223,,,2015,2021
+first_seen_vs_sources,error,data_00224,,,2015,2021
+last_seen_vs_sources,error,data_00224,,,2015,2021
+first_seen_vs_sources,error,data_00225,,,2015,2021
+last_seen_vs_sources,error,data_00225,,,2015,2021
+first_seen_vs_sources,error,data_00226,,,2015,2021
+last_seen_vs_sources,error,data_00226,,,2015,2021
+first_seen_vs_sources,error,data_00227,,,2015,2021
+last_seen_vs_sources,error,data_00227,,,2015,2021
+first_seen_vs_sources,error,data_00228,,,2015,2021
+last_seen_vs_sources,error,data_00228,,,2015,2021
+first_seen_vs_sources,error,data_00229,,,2015,2021
+last_seen_vs_sources,error,data_00229,,,2015,2021
+first_seen_vs_sources,error,data_00230,,,2015,2021
+last_seen_vs_sources,error,data_00230,,,2015,2021
+first_seen_vs_sources,error,data_00231,,,2020,2021
+last_seen_vs_sources,error,data_00231,,,2020,2021
+first_seen_vs_sources,error,data_00232,,,2020,2021
+last_seen_vs_sources,error,data_00232,,,2020,2021
+first_seen_vs_sources,error,data_00233,,,2020,2021
+last_seen_vs_sources,error,data_00233,,,2020,2021
+first_seen_vs_sources,error,data_00234,,,2020,2021
+last_seen_vs_sources,error,data_00234,,,2020,2021
+first_seen_vs_sources,error,data_00235,,,2020,2021
+last_seen_vs_sources,error,data_00235,,,2020,2021
+first_seen_vs_sources,error,data_00236,,,2017,2021
+last_seen_vs_sources,error,data_00236,,,2017,2021
+last_seen_vs_sources,error,metr_00018,,,2023,2021
+first_seen_vs_sources,error,data_00237,,,2018,2017
+last_seen_vs_sources,error,data_00237,,,2023,2021
+first_seen_vs_sources,error,data_00238,,,2018,2017
+last_seen_vs_sources,error,data_00238,,,2023,2021
+first_seen_vs_sources,error,data_00239,,,2018,2017
+last_seen_vs_sources,error,data_00239,,,2023,2021
+first_seen_vs_sources,error,data_00240,,,2023,2021
+last_seen_vs_sources,error,data_00240,,,2023,2021
+first_seen_vs_sources,error,metr_00019,,,2023,2021
+last_seen_vs_sources,error,metr_00019,,,2023,2021
+first_seen_vs_sources,error,data_00241,,,2023,2021
+last_seen_vs_sources,error,data_00241,,,2023,2021
+first_seen_vs_sources,error,data_00242,,,2023,2021
+last_seen_vs_sources,error,data_00242,,,2023,2021
+first_seen_vs_sources,error,data_00243,,,2023,2021
+last_seen_vs_sources,error,data_00243,,,2023,2021
+first_seen_vs_sources,error,metr_00024,,,2022,2025
+first_seen_vs_sources,error,metr_00025,,,2020,2025
+last_seen_vs_sources,error,metr_00025,,,2023,2025
+first_seen_vs_sources,error,metr_00026,,,2020,2024
+last_seen_vs_sources,error,metr_00026,,,2023,2026
+first_seen_vs_sources,error,metr_00027,,,2024,2026
+last_seen_vs_sources,error,metr_00027,,,2024,2026
+first_seen_vs_sources,error,metr_00028,,,2024,2026
+last_seen_vs_sources,error,metr_00028,,,2024,2026
+last_seen_vs_sources,error,metr_00033,,,2024,2023
+first_seen_vs_sources,error,data_00248,,,2024,2023
+last_seen_vs_sources,error,data_00248,,,2024,2023
+first_seen_vs_sources,error,data_00249,,,2024,2023
+last_seen_vs_sources,error,data_00249,,,2024,2023
+first_seen_vs_sources,error,data_00250,,,2024,2023
+last_seen_vs_sources,error,data_00250,,,2024,2023
+first_seen_vs_sources,error,data_00251,,,2024,2023
+last_seen_vs_sources,error,data_00251,,,2024,2023
+first_seen_vs_sources,error,data_00252,,,2024,2023
+last_seen_vs_sources,error,data_00252,,,2024,2023
+first_seen_vs_sources,error,data_00253,,,2024,2023
+last_seen_vs_sources,error,data_00253,,,2024,2023
+first_seen_vs_sources,error,data_00254,,,1997,2025
+last_seen_vs_sources,error,data_00254,,,1997,2025
+first_seen_vs_sources,error,metr_00042,,,2022,2024
+last_seen_vs_sources,error,metr_00042,,,2022,2024
+last_seen_vs_sources,error,metr_00054,,,2018,2017
+first_seen_vs_sources,error,metr_00057,,,2020,2024
+last_seen_vs_sources,error,metr_00057,,,2022,2026
+first_seen_vs_sources,error,metr_00058,,,2020,2024
+last_seen_vs_sources,error,metr_00058,,,2020,2024
+first_seen_vs_sources,error,metr_00061,,,2015,2023
+first_seen_vs_sources,error,metr_00067,,,2020,2026
+first_seen_vs_sources,error,metr_00069,,,2015,2026
+first_seen_vs_sources,error,metr_00071,,,2024,2026
+first_seen_vs_sources,error,metr_00073,,,2025,2026
+last_seen_vs_sources,error,metr_00073,,,2025,2026
+first_seen_vs_sources,error,data_00258,,,2020,2022
+last_seen_vs_sources,error,data_00258,,,2020,2022
+first_seen_vs_sources,error,metr_00074,,,2020,2022
+last_seen_vs_sources,error,metr_00074,,,2020,2022
+first_seen_vs_sources,error,metr_00075,,,2021,2022
+last_seen_vs_sources,error,metr_00085,,,2017,2016
+first_seen_vs_sources,error,clai_00052,,,2021,2024
+last_seen_vs_sources,error,clai_00052,,,2021,2024
+first_seen_vs_sources,error,clai_00053,,,2021,2024
+last_seen_vs_sources,error,clai_00053,,,2021,2024
+first_seen_vs_sources,error,clai_00054,,,2021,2024
+last_seen_vs_sources,error,clai_00054,,,2021,2024
+first_seen_vs_sources,error,clai_00055,,,2021,2024
+last_seen_vs_sources,error,clai_00055,,,2021,2024
+first_seen_vs_sources,error,clai_00056,,,2021,2024
+last_seen_vs_sources,error,clai_00056,,,2021,2024
+first_seen_vs_sources,error,clai_00057,,,2021,2024
+last_seen_vs_sources,error,clai_00057,,,2021,2024
+first_seen_vs_sources,error,clai_00058,,,2021,2024
+last_seen_vs_sources,error,clai_00058,,,2021,2024
+first_seen_vs_sources,error,clai_00059,,,2021,2024
+last_seen_vs_sources,error,clai_00059,,,2021,2024
+first_seen_vs_sources,error,clai_00060,,,2021,2024
+last_seen_vs_sources,error,clai_00060,,,2021,2024
+first_seen_vs_sources,error,clai_00061,,,2021,2024
+last_seen_vs_sources,error,clai_00061,,,2021,2024
+first_seen_vs_sources,error,clai_00062,,,2021,2024
+last_seen_vs_sources,error,clai_00062,,,2021,2024
+first_seen_vs_sources,error,clai_00063,,,2021,2024
+last_seen_vs_sources,error,clai_00063,,,2021,2024
+first_seen_vs_sources,error,clai_00064,,,2021,2024
+last_seen_vs_sources,error,clai_00064,,,2021,2024
+first_seen_vs_sources,error,clai_00251,,,2024,2025
+last_seen_vs_sources,error,clai_00251,,,2024,2025
+first_seen_vs_sources,error,clai_00252,,,2024,2025
+last_seen_vs_sources,error,clai_00252,,,2024,2025
+first_seen_vs_sources,error,clai_00253,,,2024,2025
+last_seen_vs_sources,error,clai_00253,,,2024,2025
+first_seen_vs_sources,error,clai_00254,,,2024,2025
+last_seen_vs_sources,error,clai_00254,,,2024,2025
+first_seen_vs_sources,error,clai_00255,,,2024,2025
+last_seen_vs_sources,error,clai_00255,,,2024,2025
+first_seen_vs_sources,error,clai_00256,,,2024,2025
+last_seen_vs_sources,error,clai_00256,,,2024,2025
+first_seen_vs_sources,error,clai_00257,,,2024,2025
+last_seen_vs_sources,error,clai_00257,,,2024,2025
+first_seen_vs_sources,error,clai_00258,,,2024,2025
+last_seen_vs_sources,error,clai_00258,,,2024,2025
+first_seen_vs_sources,error,clai_00259,,,2024,2025
+last_seen_vs_sources,error,clai_00259,,,2024,2025
+first_seen_vs_sources,error,clai_00260,,,2024,2025
+last_seen_vs_sources,error,clai_00260,,,2024,2025
+first_seen_vs_sources,error,clai_00261,,,2024,2025
+last_seen_vs_sources,error,clai_00261,,,2024,2025
+first_seen_vs_sources,error,clai_00262,,,2024,2025
+last_seen_vs_sources,error,clai_00262,,,2024,2025
+first_seen_vs_sources,error,clai_00263,,,2024,2025
+last_seen_vs_sources,error,clai_00263,,,2024,2025
+first_seen_vs_sources,error,clai_00264,,,2024,2025
+last_seen_vs_sources,error,clai_00264,,,2024,2025
+first_seen_vs_sources,error,clai_00265,,,2024,2025
+last_seen_vs_sources,error,clai_00265,,,2024,2025
+first_seen_vs_sources,error,clai_00266,,,2024,2025
+last_seen_vs_sources,error,clai_00266,,,2024,2025
+first_seen_vs_sources,error,clai_00267,,,2024,2025
+last_seen_vs_sources,error,clai_00267,,,2024,2025
+first_seen_vs_sources,error,clai_00268,,,2024,2025
+last_seen_vs_sources,error,clai_00268,,,2024,2025
+first_seen_vs_sources,error,clai_00269,,,2024,2025
+last_seen_vs_sources,error,clai_00269,,,2024,2025
+first_seen_vs_sources,error,clai_00270,,,2024,2025
+last_seen_vs_sources,error,clai_00270,,,2024,2025
+first_seen_vs_sources,error,clai_00271,,,2024,2025
+last_seen_vs_sources,error,clai_00271,,,2024,2025
+first_seen_vs_sources,error,clai_00272,,,2024,2025
+last_seen_vs_sources,error,clai_00272,,,2024,2025
+first_seen_vs_sources,error,clai_00273,,,2024,2025
+last_seen_vs_sources,error,clai_00273,,,2024,2025
+first_seen_vs_sources,error,clai_00274,,,2024,2025
+last_seen_vs_sources,error,clai_00274,,,2024,2025
+first_seen_vs_sources,error,clai_00275,,,2024,2025
+last_seen_vs_sources,error,clai_00275,,,2024,2025
+first_seen_vs_sources,error,clai_00276,,,2024,2025
+last_seen_vs_sources,error,clai_00276,,,2024,2025
+first_seen_vs_sources,error,clai_00277,,,2024,2025
+last_seen_vs_sources,error,clai_00277,,,2024,2025
+first_seen_vs_sources,error,clai_00278,,,2024,2025
+last_seen_vs_sources,error,clai_00278,,,2024,2025
+first_seen_vs_sources,error,clai_00279,,,2024,2025
+last_seen_vs_sources,error,clai_00279,,,2024,2025
+first_seen_vs_sources,error,clai_00280,,,2024,2025
+last_seen_vs_sources,error,clai_00280,,,2024,2025
+first_seen_vs_sources,error,clai_00281,,,2024,2025
+last_seen_vs_sources,error,clai_00281,,,2024,2025
+first_seen_vs_sources,error,clai_00282,,,2024,2025
+last_seen_vs_sources,error,clai_00282,,,2024,2025
+first_seen_vs_sources,error,clai_00283,,,2024,2025
+last_seen_vs_sources,error,clai_00283,,,2024,2025
+first_seen_vs_sources,error,clai_00284,,,2024,2025
+last_seen_vs_sources,error,clai_00284,,,2024,2025
+first_seen_vs_sources,error,clai_00285,,,2024,2025
+last_seen_vs_sources,error,clai_00285,,,2024,2025
+first_seen_vs_sources,error,clai_00286,,,2024,2025
+last_seen_vs_sources,error,clai_00286,,,2024,2025
+first_seen_vs_sources,error,clai_00287,,,2024,2025
+last_seen_vs_sources,error,clai_00287,,,2024,2025
+first_seen_vs_sources,error,clai_00288,,,2024,2025
+last_seen_vs_sources,error,clai_00288,,,2024,2025
+first_seen_vs_sources,error,clai_00289,,,2024,2025
+last_seen_vs_sources,error,clai_00289,,,2024,2025
+first_seen_vs_sources,error,clai_00290,,,2024,2025
+last_seen_vs_sources,error,clai_00290,,,2024,2025
+first_seen_vs_sources,error,clai_00291,,,2024,2025
+last_seen_vs_sources,error,clai_00291,,,2024,2025
+first_seen_vs_sources,error,clai_00292,,,2024,2025
+last_seen_vs_sources,error,clai_00292,,,2024,2025
+first_seen_vs_sources,error,clai_00293,,,2024,2025
+last_seen_vs_sources,error,clai_00293,,,2024,2025
+first_seen_vs_sources,error,clai_00294,,,2024,2025
+last_seen_vs_sources,error,clai_00294,,,2024,2025
+first_seen_vs_sources,error,clai_00295,,,2024,2025
+last_seen_vs_sources,error,clai_00295,,,2024,2025
+first_seen_vs_sources,error,clai_00296,,,2024,2025
+last_seen_vs_sources,error,clai_00296,,,2024,2025
+first_seen_vs_sources,error,clai_00297,,,2024,2025
+last_seen_vs_sources,error,clai_00297,,,2024,2025
+first_seen_vs_sources,error,clai_00298,,,2024,2025
+last_seen_vs_sources,error,clai_00298,,,2024,2025
+first_seen_vs_sources,error,clai_00299,,,2024,2025
+last_seen_vs_sources,error,clai_00299,,,2024,2025
+first_seen_vs_sources,error,clai_00300,,,2024,2025
+last_seen_vs_sources,error,clai_00300,,,2024,2025
+first_seen_vs_sources,error,clai_00301,,,2024,2025
+last_seen_vs_sources,error,clai_00301,,,2024,2025
+first_seen_vs_sources,error,clai_00302,,,2024,2025
+last_seen_vs_sources,error,clai_00302,,,2024,2025
+first_seen_vs_sources,error,clai_00303,,,2024,2025
+last_seen_vs_sources,error,clai_00303,,,2024,2025
+first_seen_vs_sources,error,clai_00304,,,2024,2025
+last_seen_vs_sources,error,clai_00304,,,2024,2025
+first_seen_vs_sources,error,clai_00305,,,2024,2025
+last_seen_vs_sources,error,clai_00305,,,2024,2025
+first_seen_vs_sources,error,clai_00306,,,2024,2025
+last_seen_vs_sources,error,clai_00306,,,2024,2025
+first_seen_vs_sources,error,clai_00307,,,2024,2025
+last_seen_vs_sources,error,clai_00307,,,2024,2025
+first_seen_vs_sources,error,clai_00308,,,2024,2025
+last_seen_vs_sources,error,clai_00308,,,2024,2025
+first_seen_vs_sources,error,clai_00309,,,2024,2025
+last_seen_vs_sources,error,clai_00309,,,2024,2025
+first_seen_vs_sources,error,clai_00310,,,2024,2025
+last_seen_vs_sources,error,clai_00310,,,2024,2025
+origin_after_observation,warning,cite_00213,,,2022,"{""not_later_than"": 2021}"
+fact_year_vs_source,warning,,h_00344,5396,2017,"{""source_year"": 2018, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00344,5396,"{""edge_year"": 2017, ""members"": [""data_00063"", ""meth_00218""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00346,5396,2017,"{""source_year"": 2018, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00346,5396,"{""edge_year"": 2017, ""members"": [""data_00065"", ""meth_00218""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00347,5396,2017,"{""source_year"": 2018, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00347,5396,"{""edge_year"": 2017, ""members"": [""data_00066"", ""meth_00218""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00348,5396,2017,"{""source_year"": 2018, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00348,5396,"{""edge_year"": 2017, ""members"": [""data_00067"", ""meth_00218""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00349,5396,2017,"{""source_year"": 2018, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00349,5396,"{""edge_year"": 2017, ""members"": [""data_00068"", ""meth_00218""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00351,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00351,5454,"{""edge_year"": 2021, ""members"": [""data_00216"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00352,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00352,5454,"{""edge_year"": 2021, ""members"": [""data_00217"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00353,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00353,5454,"{""edge_year"": 2021, ""members"": [""data_00218"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00354,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00354,5454,"{""edge_year"": 2021, ""members"": [""data_00219"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00355,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00355,5454,"{""edge_year"": 2021, ""members"": [""data_00220"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00357,5440,2022,"{""source_year"": 2026, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00357,5440,"{""edge_year"": 2022, ""members"": [""data_00164"", ""meth_00417""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00361,5440,2020,"{""source_year"": 2026, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00361,5440,"{""edge_year"": 2020, ""members"": [""data_00167"", ""meth_00417""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00362,5440,2022,"{""source_year"": 2026, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00362,5440,"{""edge_year"": 2022, ""members"": [""data_00168"", ""meth_00417""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00378,5448,2020,"{""source_year"": 2023, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00378,5448,"{""edge_year"": 2020, ""members"": [""data_00130"", ""meth_00329""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00379,5448,2018,"{""source_year"": 2023, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00379,5448,"{""edge_year"": 2018, ""members"": [""data_00131"", ""meth_00329""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00385,5388,2015,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00385,5388,"{""edge_year"": 2015, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00386,5388,2015,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00386,5388,"{""edge_year"": 2015, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00387,5388,2015,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00387,5388,"{""edge_year"": 2015, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00388,5388,2015,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00388,5388,"{""edge_year"": 2015, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00389,5388,2015,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00389,5388,"{""edge_year"": 2015, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00390,5388,2015,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00390,5388,"{""edge_year"": 2015, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00391,5388,2015,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00391,5388,"{""edge_year"": 2015, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00392,5388,2015,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00392,5388,"{""edge_year"": 2015, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00393,5388,2015,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00393,5388,"{""edge_year"": 2015, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00394,5388,2015,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00394,5388,"{""edge_year"": 2015, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00395,5388,2020,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00395,5388,"{""edge_year"": 2020, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00396,5388,2020,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00396,5388,"{""edge_year"": 2020, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00397,5388,2020,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00397,5388,"{""edge_year"": 2020, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00398,5388,2020,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00398,5388,"{""edge_year"": 2020, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00399,5388,2020,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00399,5388,"{""edge_year"": 2020, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00407,5388,2017,"{""source_year"": 2021, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00407,5388,"{""edge_year"": 2017, ""members"": [""meth_00171""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00409,5388,2023,"{""source_year"": 2021, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00410,5388,2023,"{""source_year"": 2021, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00411,5388,2023,"{""source_year"": 2021, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00412,5388,2023,"{""source_year"": 2021, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00413,5388,2023,"{""source_year"": 2021, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00414,5388,2023,"{""source_year"": 2021, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00415,5388,2023,"{""source_year"": 2021, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00426,5384,2022,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00426,5384,"{""edge_year"": 2022, ""members"": [""data_00013"", ""meth_00134""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00427,5384,2020,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00427,5384,"{""edge_year"": 2020, ""members"": [""data_00014"", ""meth_00134""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00428,5384,2023,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00428,5384,"{""edge_year"": 2023, ""members"": [""data_00015"", ""meth_00134""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00429,5442,2023,"{""source_year"": 2026, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00429,5442,"{""edge_year"": 2023, ""members"": [""data_00013"", ""meth_00292""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00430,5442,2024,"{""source_year"": 2026, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00430,5442,"{""edge_year"": 2024, ""members"": [""data_00099"", ""meth_00292""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00431,5442,2024,"{""source_year"": 2026, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00431,5442,"{""edge_year"": 2024, ""members"": [""data_00100"", ""meth_00292""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00453,5395,2024,"{""source_year"": 2023, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00454,5395,2024,"{""source_year"": 2023, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00455,5395,2024,"{""source_year"": 2023, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00456,5395,2024,"{""source_year"": 2023, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00457,5395,2024,"{""source_year"": 2023, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00458,5395,2024,"{""source_year"": 2023, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00473,5441,2023,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00473,5441,"{""edge_year"": 2023, ""members"": [""data_00164"", ""meth_00313""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00474,5441,2022,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00474,5441,"{""edge_year"": 2022, ""members"": [""data_00170"", ""meth_00313""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00475,5441,1997,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00475,5441,"{""edge_year"": 1997, ""members"": [""meth_00313""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00477,5441,2020,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00477,5441,"{""edge_year"": 2020, ""members"": [""data_00013"", ""meth_00313""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00486,5439,2022,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00486,5439,"{""edge_year"": 2022, ""members"": [""data_00162"", ""meth_00414""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00497,5387,2023,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00497,5387,"{""edge_year"": 2023, ""members"": [""data_00016"", ""meth_00159""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00513,5392,2018,"{""source_year"": 2017, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00514,5392,2018,"{""source_year"": 2017, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00515,5392,2018,"{""source_year"": 2017, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00530,5444,2020,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00530,5444,"{""edge_year"": 2020, ""members"": [""data_00106"", ""meth_00081""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00531,5444,2020,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00531,5444,"{""edge_year"": 2020, ""members"": [""data_00107"", ""meth_00081""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00532,5444,2020,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00532,5444,"{""edge_year"": 2020, ""members"": [""data_00108"", ""meth_00081""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00533,5444,2020,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00533,5444,"{""edge_year"": 2020, ""members"": [""data_00109"", ""meth_00081""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00535,5444,2022,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00535,5444,"{""edge_year"": 2022, ""members"": [""data_00111"", ""meth_00081""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00536,5444,2022,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00536,5444,"{""edge_year"": 2022, ""members"": [""data_00112"", ""meth_00081""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00537,5444,2022,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00537,5444,"{""edge_year"": 2022, ""members"": [""data_00113"", ""meth_00081""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00543,5446,2015,"{""source_year"": 2023, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00543,5446,"{""edge_year"": 2015, ""members"": [""data_00123"", ""meth_00320""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00548,5443,2022,"{""source_year"": 2026, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00548,5443,"{""edge_year"": 2022, ""members"": [""data_00013"", ""meth_00082""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00558,5443,2022,"{""source_year"": 2026, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00558,5443,"{""edge_year"": 2022, ""members"": [""data_00113"", ""meth_00082""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00565,5443,2024,"{""source_year"": 2026, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00565,5443,"{""edge_year"": 2024, ""members"": [""data_00187"", ""meth_00082""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00566,5443,2024,"{""source_year"": 2026, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00566,5443,"{""edge_year"": 2024, ""members"": [""data_00188"", ""meth_00082""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00567,5443,2020,"{""source_year"": 2026, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00567,5443,"{""edge_year"": 2020, ""members"": [""data_00164"", ""meth_00082""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00569,5443,2020,"{""source_year"": 2026, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00569,5443,"{""edge_year"": 2020, ""members"": [""data_00190"", ""meth_00082""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00573,5443,2025,"{""source_year"": 2026, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00573,5443,"{""edge_year"": 2025, ""members"": [""data_00193"", ""meth_00082""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00575,5443,2015,"{""source_year"": 2026, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00575,5443,"{""edge_year"": 2015, ""members"": [""data_00195"", ""meth_00082""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00579,5390,2020,"{""source_year"": 2022, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00579,5390,"{""edge_year"": 2020, ""members"": [""meth_00188""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00580,5390,2021,"{""source_year"": 2022, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00580,5390,"{""edge_year"": 2021, ""members"": [""data_00040"", ""meth_00188""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00596,5451,2017,"{""source_year"": 2016, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00597,5451,2017,"{""source_year"": 2016, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00598,5451,2017,"{""source_year"": 2016, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00600,5451,2017,"{""source_year"": 2016, ""equality_required"": false}"
+fact_year_vs_source,warning,,h_00658,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00658,5454,"{""edge_year"": 2021, ""members"": [""arti_00051"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00659,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00659,5454,"{""edge_year"": 2021, ""members"": [""arti_00051"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00660,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00660,5454,"{""edge_year"": 2021, ""members"": [""arti_00051"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00661,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00661,5454,"{""edge_year"": 2021, ""members"": [""arti_00051"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00662,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00662,5454,"{""edge_year"": 2021, ""members"": [""arti_00051"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00663,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00663,5454,"{""edge_year"": 2021, ""members"": [""arti_00051"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00664,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00664,5454,"{""edge_year"": 2021, ""members"": [""arti_00051"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00665,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00665,5454,"{""edge_year"": 2021, ""members"": [""arti_00051"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00666,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00666,5454,"{""edge_year"": 2021, ""members"": [""arti_00051"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00667,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00667,5454,"{""edge_year"": 2021, ""members"": [""arti_00051"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00668,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00668,5454,"{""edge_year"": 2021, ""members"": [""arti_00051"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00669,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00669,5454,"{""edge_year"": 2021, ""members"": [""arti_00051"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00670,5454,2021,"{""source_year"": 2024, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00670,5454,"{""edge_year"": 2021, ""members"": [""arti_00051"", ""meth_00437""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00058,h_00788,5388,"[5380, 5382, 5383, 5387]","{""must_include"": 5388}"
+edge_before_member_observation,warning,,h_00788,5388,"{""edge_year"": 2021, ""members"": [""meth_00058""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00058,h_00789,5388,"[5380, 5382, 5383, 5387]","{""must_include"": 5388}"
+edge_before_member_observation,warning,,h_00789,5388,"{""edge_year"": 2021, ""members"": [""meth_00058""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00058,h_00790,5388,"[5380, 5382, 5383, 5387]","{""must_include"": 5388}"
+edge_before_member_observation,warning,,h_00790,5388,"{""edge_year"": 2021, ""members"": [""meth_00058""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00058,h_00791,5388,"[5380, 5382, 5383, 5387]","{""must_include"": 5388}"
+edge_before_member_observation,warning,,h_00791,5388,"{""edge_year"": 2021, ""members"": [""meth_00058""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00058,h_00792,5388,"[5380, 5382, 5383, 5387]","{""must_include"": 5388}"
+edge_before_member_observation,warning,,h_00792,5388,"{""edge_year"": 2021, ""members"": [""meth_00058""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00058,h_00793,5388,"[5380, 5382, 5383, 5387]","{""must_include"": 5388}"
+edge_before_member_observation,warning,,h_00793,5388,"{""edge_year"": 2021, ""members"": [""meth_00058""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00058,h_00794,5388,"[5380, 5382, 5383, 5387]","{""must_include"": 5388}"
+edge_before_member_observation,warning,,h_00794,5388,"{""edge_year"": 2021, ""members"": [""meth_00058""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00058,h_00795,5388,"[5380, 5382, 5383, 5387]","{""must_include"": 5388}"
+edge_before_member_observation,warning,,h_00795,5388,"{""edge_year"": 2021, ""members"": [""meth_00058""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00058,h_00796,5388,"[5380, 5382, 5383, 5387]","{""must_include"": 5388}"
+edge_before_member_observation,warning,,h_00796,5388,"{""edge_year"": 2021, ""members"": [""meth_00058""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00857,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00857,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00858,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00858,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00859,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00859,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00860,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00860,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00861,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00861,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00862,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00862,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00863,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00863,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00864,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00864,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00865,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00865,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00866,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00866,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00867,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00867,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00868,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00868,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00869,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00869,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00870,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00870,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00871,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00871,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00872,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00872,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00873,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00873,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00874,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00874,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00875,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00875,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00876,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00876,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00877,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00877,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00878,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00878,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00879,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00879,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00880,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00880,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00881,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00881,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00882,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00882,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00883,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00883,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00884,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00884,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00885,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00885,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00886,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00886,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00887,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00887,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00888,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00888,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00889,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00889,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00890,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00890,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00891,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00891,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00892,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00892,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00893,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00893,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00894,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00894,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00895,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00895,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00896,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00896,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00897,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00897,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00898,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00898,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00899,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00899,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00900,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00900,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00901,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00901,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00902,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00902,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00903,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00903,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00904,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00904,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00905,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00905,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00906,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00906,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00907,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00907,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00908,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00908,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00909,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00909,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00910,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00910,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00911,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00911,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00912,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00912,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00913,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00913,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00914,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00914,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00915,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00915,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+fact_year_vs_source,warning,,h_00916,5453,2024,"{""source_year"": 2025, ""equality_required"": false}"
+edge_before_member_observation,warning,,h_00916,5453,"{""edge_year"": 2024, ""members"": [""arti_00050"", ""meth_00388""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01148,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01148,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01149,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01149,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01150,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01150,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01151,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01151,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01152,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01152,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01153,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01153,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01154,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01154,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01155,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01155,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01156,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01156,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01157,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01157,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01158,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01158,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01159,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01159,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01160,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01160,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01161,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01161,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00169,h_01162,5455,[5387],"{""must_include"": 5455}"
+edge_before_member_observation,warning,,h_01162,5455,"{""edge_year"": 2023, ""members"": [""meth_00169""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00037,h_01245,5390,"[5384, 5387, 5391]","{""must_include"": 5390}"
+edge_before_member_observation,warning,,h_01245,5390,"{""edge_year"": 2022, ""members"": [""meth_00037""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00037,h_01246,5390,"[5384, 5387, 5391]","{""must_include"": 5390}"
+edge_before_member_observation,warning,,h_01246,5390,"{""edge_year"": 2022, ""members"": [""meth_00037""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00037,h_01247,5390,"[5384, 5387, 5391]","{""must_include"": 5390}"
+edge_before_member_observation,warning,,h_01247,5390,"{""edge_year"": 2022, ""members"": [""meth_00037""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00037,h_01248,5390,"[5384, 5387, 5391]","{""must_include"": 5390}"
+edge_before_member_observation,warning,,h_01248,5390,"{""edge_year"": 2022, ""members"": [""meth_00037""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00037,h_01249,5390,"[5384, 5387, 5391]","{""must_include"": 5390}"
+edge_before_member_observation,warning,,h_01249,5390,"{""edge_year"": 2022, ""members"": [""meth_00037""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00037,h_01250,5390,"[5384, 5387, 5391]","{""must_include"": 5390}"
+edge_before_member_observation,warning,,h_01250,5390,"{""edge_year"": 2022, ""members"": [""meth_00037""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00037,h_01251,5390,"[5384, 5387, 5391]","{""must_include"": 5390}"
+edge_before_member_observation,warning,,h_01251,5390,"{""edge_year"": 2022, ""members"": [""meth_00037""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00037,h_01252,5390,"[5384, 5387, 5391]","{""must_include"": 5390}"
+edge_before_member_observation,warning,,h_01252,5390,"{""edge_year"": 2022, ""members"": [""meth_00037""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00037,h_01253,5390,"[5384, 5387, 5391]","{""must_include"": 5390}"
+edge_before_member_observation,warning,,h_01253,5390,"{""edge_year"": 2022, ""members"": [""meth_00037""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00037,h_01254,5390,"[5384, 5387, 5391]","{""must_include"": 5390}"
+edge_before_member_observation,warning,,h_01254,5390,"{""edge_year"": 2022, ""members"": [""meth_00037""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00037,h_01255,5390,"[5384, 5387, 5391]","{""must_include"": 5390}"
+edge_before_member_observation,warning,,h_01255,5390,"{""edge_year"": 2022, ""members"": [""meth_00037""]}",review snapshot eligibility of all endpoints
+missing_member_source,error,meth_00037,h_01256,5390,"[5384, 5387, 5391]","{""must_include"": 5390}"
+edge_before_member_observation,warning,,h_01256,5390,"{""edge_year"": 2022, ""members"": [""meth_00037""]}",review snapshot eligibility of all endpoints
